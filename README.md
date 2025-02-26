@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pavithrahn56@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/drive/folders/1-McMiYLEz6V6JKWt4PEe2rMkgU4WB15y)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1JSmfQurVugfXtxDWcPD1XwameK3k1iP_/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
