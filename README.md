@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **RAG SYSTEM PROJECTS .**
 
-- 🌱 I’m currently learning **NLP,Deeplearning, Computer Vision.**
+- 🌱 I’m currently learning **NLP,Deeplearning,Generative AI,RAG System .**
 
 - 👯 I’m looking to collaborate on **AI and NLP Projects**
 
-- 💬 Ask me about **NLP, Data Science.**
+- 💬 Ask me about **AI,ML,NLP,Generative AI.**
 
 - 📫 How to reach me **pavithrahn56@gmail.com**
 
