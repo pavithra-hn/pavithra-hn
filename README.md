@@ -11,7 +11,6 @@
   </a>
 </p>
 
----
 
 ### 🌱 What I’m Working On  
 - 🔧 Building **RAG SYSTEM PROJECTS**  
@@ -28,7 +27,6 @@
 ✉️ pavithrahn56@gmail.com  
 📄 [View My Resume](https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/view?usp=drivesdk)
 
----
 
 ### 🔗 Connect with Me  
 
@@ -41,9 +39,8 @@
   </a>
 </p>
 
----
 
-### 🛠️ Languages & Tools  
+### 🛠️ Technologies & Tools  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
@@ -61,4 +58,10 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
 </p>
 
+
+### 📝 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra-hn&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
