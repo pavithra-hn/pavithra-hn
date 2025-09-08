@@ -1,14 +1,12 @@
-<h1 align="center">👋 Hi, I'm Pavithra H N</h1>
-<h3 align="center">🚀 Passionate about AI & ML | Exploring Generative AI, NLP, and RAG Systems</h3>
+<h1 align="center">👋 Hey there, I'm Pavithra H N</h1>
+<h3 align="center">✨ Turning Data into Intelligence | Passionate about AI, Machine Learning, Generative AI, NLP & RAG Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavithra-hn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=gruvbox" alt="GitHub Trophy"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn" alt="GitHub Trophy"/>
-  </a>
+  🚀 Building intelligent solutions that simplify complexity | Always learning | Forever curious
 </p>
 
 
