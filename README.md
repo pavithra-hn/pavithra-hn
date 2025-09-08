@@ -36,7 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
   </a>
   <a href="https://courses.cognitiveclass.ai/u/pavithrahn56" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ibmcognitiveclass.svg" width="40" height="40" alt="CognitiveClass"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="40" height="40" alt="IBM"/>
   </a>
 </p>
 
