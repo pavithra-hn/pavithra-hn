@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn" alt="pavithra-hn" /></a> </p>
 
-- 🔭 I’m currently working on **Automative Traffic sign Detection.**
+- 🔭 I’m currently working on **RAG SYSTEM PROJECTS .**
 
 - 🌱 I’m currently learning **NLP,Deeplearning, Computer Vision.**
 
