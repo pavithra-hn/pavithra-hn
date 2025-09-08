@@ -58,7 +58,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Visual_Studio_Code_1.35_icon.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" alt="HuggingFace"/>
+  <img src="https://raw.githubusercontent.com/langchain-dev/brand/main/langchain-logo-light.svg" width="40" height="40" alt="LangChain"/>
+  <img src="https://raw.githubusercontent.com/langsmith-dev/langsmith/main/langsmith-logo.svg" width="40" height="40" alt="LangSmith"/>
 </p>
+
 
 
 ### 📝 Most Used Languages
