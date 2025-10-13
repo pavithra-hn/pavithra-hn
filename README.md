@@ -1,46 +1,48 @@
-<!-- 🤖 ULTRA CYBERPUNK AI COMMAND HUD: PAVITHRA H N -->
+<!-- 🛸 CYBERPUNK AI COMMAND CENTER: PAVITHRA H N -->
 
 <h1 align="center">🛰️ <span style="color:#00FFFF;">Pavithra H N</span> | AI Agent Commander 👾</h1>
 <h3 align="center">⚡ Generative AI Explorer | RAG Architect | Autonomous Bot Master ⚡</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="200"/>
 </p>
 
 
+## 🕹️ AI Command Dashboard
 
-## 🕹️ Mission Control: AI HUD
-
-| 🧭 Sector | Status | Power Level |
-|-----------|--------|------------|
-| 🤖 **AI Agents & Autonomous Bots** | 🟢 Active | <span style="color:#00FF00;">████████ 100%</span> |
-| 🧠 **Neural Network Labs** | 🟡 Training | <span style="color:#FFFF00;">██████░░ 72%</span> |
-| 🔗 **RAG & LLM Systems** | 🟢 Online | <span style="color:#00FF00;">████████ 95%</span> |
-| ⚡ **Generative AI Experiments** | 🟡 Processing | <span style="color:#FFFF00;">███████░ 85%</span> |
-| 🌐 **Vector Database Ops** | 🟢 Stable | <span style="color:#00FF00;">████████ 90%</span> |
-
+| 🧭 Sector | Status |
+|-----------|--------|
+| 🤖 **AI Agents & Bots** | 🟢 Active |
+| 🧠 **Neural Network Labs** | 🟡 Training... 72% |
+| 🔗 **RAG & LLM Systems** | 🟢 Online |
+| ⚡ **Generative AI Experiments** | 🟡 Processing... 85% |
+| 🌐 **Vector Database Operations** | 🟢 Stable |
 
 
-## ⚔️ Tech Arsenal: Neon Powers
+
+## ⚔️ Arsenal: Tech Powers
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,langchain,huggingface,docker,git,html,css,js,mysql,opencv,vscode" />
 </p>
 
-<div align="center">
-<span style="color:#00FFFF;">Agent Master 🤖:</span> ████████ 100%<br>
-<span style="color:#FF00FF;">RAG Commander ⚡:</span> ███████░ 92%<br>
-<span style="color:#FFFF00;">Neural Wizard 🧠:</span> ███████░ 88%<br>
-<span style="color:#00FF00;">Data Tamer 📊:</span> ████████ 95%<br>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agent_Master-🤖_Autonomous_Bots|Task_Decomposition-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Commander-⚡_LangChain|LLMs|Chroma-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Neural_Wizard-🧠_NLP|Generative_AI-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Tamer-📊_Pandas|Scikit--learn|Seaborn-green?style=for-the-badge"/>
+</p>
 
-## 🎮 Active Quests: AI Operations
 
-- 🛰️ **Deploy AI Agents** across virtual realms  
+
+## 🎮 Mission Control: Active Quests
+
+- 🛰️ **Deploying AI Agents** across virtual realms  
 - 🔧 **Next-Gen RAG Systems** for infinite knowledge extraction  
-- 🤖 **Autonomous Bots** performing high-level tasks  
-- 🧠 **NLP Models** processing real-world data  
-- 🌌 **Generative AI Experiments**: creating AI-powered artifacts  
+- 🤖 **Autonomous Task Bots** performing advanced operations  
+- 🧠 **NLP Models** analyzing real-world datasets  
+- 🌌 **Generative AI Creations**: AI that designs & writes  
+
 
 
 ## 💬 Intercom: NPC Dialogues
@@ -78,6 +80,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=700&lines=🛰️+Booting+AI+Agents...;⚡+Training+Neural+Networks...;🤖+Deploying+RAG+Systems...;🔥+Keep+Hacking,+Keep+Building,+Keep+Leveling!" />
 </p>
-
-
 
