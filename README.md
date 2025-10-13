@@ -6,21 +6,24 @@
 </p>
 
 <p align="center">
-🚀 Crafting intelligent systems that transform data into actionable insights | 🌱 Forever curious | 💡 Always innovating
+🚀 Transforming data into intelligence | 🌱 Forever curious | 💡 Always innovating
 </p>
 
+---
 
 ## 🧠 About Me
-- AI Engineer with a passion for **Generative AI, NLP, RAG systems, and Machine Learning**.
-- Enthusiast in building **real-world AI solutions** that simplify complexity.
-- Always experimenting with **cutting-edge AI frameworks and pipelines**.
+- AI Engineer specializing in **Generative AI, NLP, RAG systems, and Machine Learning**.  
+- Building **real-world AI solutions** that simplify complexity.  
+- Exploring **cutting-edge AI frameworks and pipelines** to deliver smart automation.
 
+---
 
 ## 🌟 Current Focus
-- Building **RAG (Retrieval-Augmented Generation) systems**.
-- Exploring **deep learning architectures and NLP innovations**.
-- Experimenting with **Generative AI models for intelligent automation**.
+- Developing **RAG (Retrieval-Augmented Generation) systems** for intelligent interactions.  
+- Mastering **deep learning architectures and NLP innovations**.  
+- Experimenting with **Generative AI pipelines** for content and process automation.
 
+---
 
 ## 💻 Core Expertise
 | Areas | Tools & Technologies |
@@ -30,16 +33,16 @@
 | Data & Analytics | Pandas, Seaborn, OpenCV, MySQL |
 | DevOps & Tools | Docker, Git, VS Code, Flask |
 
-
+---
 
 ## 🔧 AI Projects
-- **RAG System Projects**: Context-aware AI chatbots with memory and analytics features.  
-- **Generative AI Pipelines**: Automation of content creation and summarization using NLP models.  
-- **Deep Learning Models**: Computer vision, NLP, and ensemble ML models for real-world applications.
+- **RAG System Projects**: AI chatbots with memory, context awareness, and analytics.  
+- **Generative AI Pipelines**: Automating content creation and summarization using NLP.  
+- **Deep Learning Models**: Computer vision, NLP, and ensemble ML solutions for real-world problems.
 
-> All projects are publicly available on my GitHub with full documentation & demos.
+> All projects are available on my GitHub with full documentation and demos.
 
-
+---
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -57,6 +60,7 @@
   </a>
 </p>
 
+---
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
@@ -72,7 +76,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
 </p>
 
-
+---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -80,9 +84,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra-hn&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-
+---
 
 ## 📫 Get in Touch
 - Email: pavithrahn56@gmail.com  
 - Resume: [Download PDF](https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/view?usp=drivesdk)  
-
