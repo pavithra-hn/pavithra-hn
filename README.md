@@ -1,91 +1,87 @@
-<h1 align="center">🤖 Hi, I'm Pavithra H N</h1>
-<h3 align="center">AI Engineer | Generative AI Enthusiast | NLP & RAG Specialist</h3>
+<!-- 👾 GITHUB PROFILE README: PAVITHRA H N -->
+
+<h1 align="center">🎮 Hey Player, I'm <span style="color:#00FFFF;">Pavithra H N</span> 👋</h1>
+
+<h3 align="center">✨ Turning Data into Intelligence | AI Adventurer | ML & Generative AI Explorer ✨</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=gruvbox" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=15&margin-h=15&column=7" alt="GitHub Trophy"/>
 </p>
 
 <p align="center">
-🚀 Transforming data into intelligence | 🌱 Forever curious | 💡 Always innovating
+  🧠 Leveling Up: Building AI that learns | Creating RAG Systems | Exploring the unknown 🤖
 </p>
 
----
 
-## 🧠 About Me
-- AI Engineer specializing in **Generative AI, NLP, RAG systems, and Machine Learning**.  
-- Building **real-world AI solutions** that simplify complexity.  
-- Exploring **cutting-edge AI frameworks and pipelines** to deliver smart automation.
+## 🗺️ Current Quest Log
 
----
+| 🎯 Mission | 🧩 Progress |
+|-------------|-------------|
+| 🧠 Master NLP, Deep Learning & RAG Systems | ⚡ 78% |
+| 🧪 Build more AI + Generative Projects | ⚡ 85% |
+| 🚀 Learn new LLM tools (LangChain, HuggingFace, etc.) | ⚡ 70% |
 
-## 🌟 Current Focus
-- Developing **RAG (Retrieval-Augmented Generation) systems** for intelligent interactions.  
-- Mastering **deep learning architectures and NLP innovations**.  
-- Experimenting with **Generative AI pipelines** for content and process automation.
 
----
+## ⚔️ Skill Inventory
 
-## 💻 Core Expertise
-| Areas | Tools & Technologies |
-|-------|--------------------|
-| Programming | Python, JavaScript, SQL, HTML/CSS |
-| AI/ML | TensorFlow, PyTorch, Scikit-learn, HuggingFace, LangChain, LangSmith |
-| Data & Analytics | Pandas, Seaborn, OpenCV, MySQL |
-| DevOps & Tools | Docker, Git, VS Code, Flask |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,langchain,huggingface,docker,git,html,css,js,mysql,opencv,vscode" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Wizard%20⚡-NLP%20%7C%20Generative%20AI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Tamer%20📊-Pandas%20%7C%20Scikit--learn%20%7C%20Seaborn-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Architect%20🤖-LangChain%20%7C%20LLMs%20%7C%20Chroma-orange?style=for-the-badge" />
+</p>
 
-## 🔧 AI Projects
-- **RAG System Projects**: AI chatbots with memory, context awareness, and analytics.  
-- **Generative AI Pipelines**: Automating content creation and summarization using NLP.  
-- **Deep Learning Models**: Computer vision, NLP, and ensemble ML solutions for real-world problems.
+## 🧭 Game Map: What I’m Working On
 
-> All projects are available on my GitHub with full documentation and demos.
+- 🔧 Building **Next-Gen RAG Systems**  
+- 🧩 Exploring **LLMs + Vector Databases**  
+- 🧠 Training **NLP models with real-world data**  
 
----
+## 🕹️ Co-op Mode (Collaboration)
 
-## 🌐 Connect With Me
+- 💡 AI, NLP & GenAI Projects  
+- 🌐 RAG-based Applications  
+- ⚔️ Open-source ML or automation tools  
+  
+
+## 💬 NPC Dialogues (Ask Me About)
+
+`AI` | `ML` | `NLP` | `LLMs` | `Generative AI` | `RAG Systems`
+
+## 📫 Quest Rewards (Contact Me)
+
+📩 **pavithrahn56@gmail.com**  
+📜 [**View Resume**](https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/view?usp=drivesdk)
+
+## 🌐 Portals (Connect with Me)
+
 <p align="center">
   <a href="https://linkedin.com/in/pavithrahn56" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   <a href="https://kaggle.com/pavithrahn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45"/>
   </a>
   <a href="https://courses.cognitiveclass.ai/u/pavithrahn56" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="40" height="40" alt="IBM"/>
-  </a>
-  <a href="mailto:pavithrahn56@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="45"/>
   </a>
 </p>
 
----
+## 🧩 My Tech Stats
 
-## 🛠️ Tech Stack & Tools
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" alt="HuggingFace"/>
-<img src="https://raw.githubusercontent.com/langchain-dev/brand/main/langchain-logo-light.svg" width="40" height="40" alt="LangChain"/>
-<img src="https://raw.githubusercontent.com/langsmith-dev/langsmith/main/langsmith-logo.svg" width="40" height="40" alt="LangSmith"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra-hn&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FFFF" alt="Top Languages" />
 </p>
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra-hn&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra-hn&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak Stats"/>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Initializing+AI+Journey...;💡+Training+Neural+Networks...;🎯+Deploying+Intelligence+to+the+World!;🔥+Keep+Learning,+Keep+Building!" />
+</p>
 
-## 📫 Get in Touch
-- Email: pavithrahn56@gmail.com  
-- Resume: [Download PDF](https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/view?usp=drivesdk)  
+
