@@ -1,11 +1,18 @@
 <!-- 👾 GITHUB PROFILE README: PAVITHRA H N -->
 
-<h1 align="center">🎮 Hey , I'm <span style="color:#00FFFF;">Pavithra H N</span> 👋</h1>
+<h1 align="center"> Hey , I'm <span style="color:#00FFFF;">Pavithra H N</span> 👋</h1>
 
 <h3 align="center">✨ Turning Data into Intelligence | AI Adventurer | ML & Generative AI Explorer ✨</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=15&margin-h=15&column=7" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=5&margin-h=5&column=1&row=1&no-bg=true&title=Commits" width="100"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=5&margin-h=5&column=1&row=1&no-bg=true&title=Repositories" width="100"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=5&margin-h=5&column=1&row=1&no-bg=true&title=Experience" width="100"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=5&margin-h=5&column=1&row=1&no-bg=true&title=Followers" width="100"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=5&margin-h=5&column=1&row=1&no-bg=true&title=Stars" width="100"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=5&margin-h=5&column=1&row=1&no-bg=true&title=Issues" width="100"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=5&margin-h=5&column=1&row=1&no-bg=true&title=PullRequest" width="100"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=5&margin-h=5&column=1&row=1&no-bg=true&title=Reviews" width="100"/>
 </p>
 
 <p align="center">
