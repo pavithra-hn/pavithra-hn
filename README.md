@@ -1,6 +1,6 @@
 <!-- 👾 GITHUB PROFILE README: PAVITHRA H N -->
 
-<h1 align="center">🎮 Hey Player, I'm <span style="color:#00FFFF;">Pavithra H N</span> 👋</h1>
+<h1 align="center">🎮 Hey , I'm <span style="color:#00FFFF;">Pavithra H N</span> 👋</h1>
 
 <h3 align="center">✨ Turning Data into Intelligence | AI Adventurer | ML & Generative AI Explorer ✨</h3>
 
