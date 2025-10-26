@@ -24,53 +24,36 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"> **ABOUT ME**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+### 👨‍💻 Who Am I?
 
-class AIArchitect:
-    def __init__(self):
-        self.username = "Pavithra H N"
-        self.role = "AI/ML Engineer 🤖"
-        self.location = "Mysuru, India 🇮🇳"
-        self.education = "B.E. in AI & ML"
-        self.passion = "Building Intelligent Systems"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "SQL", "JavaScript"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn"],
-            "nlp": ["Transformers", "BERT", "GPT", "LangChain"],
-            "gen_ai": ["RAG Systems", "Vector DBs", "LLMs"],
-            "tools": ["Docker", "Git", "AWS", "FastAPI"],
-            "databases": ["MySQL", "MongoDB", "Chroma", "Pinecone"]
-        }
-    
-    def current_focus(self):
-        return [
-            "🚀 Building Production-Ready RAG Systems",
-            "🧠 Fine-tuning Large Language Models",
-            "🔬 Exploring Retrieval Augmented Generation",
-            "💡 Creating AI-Powered Solutions"
-        ]
-    
-    def get_motto(self):
-        return "Code. Train. Deploy. Repeat. 🔄"
+**Pavithra H N** - AI/ML Engineer passionate about building intelligent systems that make a difference.
 
-me = AIArchitect()
-print(me.get_motto())
-```
+- 🎓 **Education:** B.E. in Artificial Intelligence & Machine Learning
+- 📍 **Location:** Mysuru, Karnataka, India 🇮🇳
+- 🚀 **Focus:** Building Production-Ready RAG Systems & LLM Applications
+- 🧠 **Passion:** Exploring the frontiers of Generative AI and Deep Learning
+- 💡 **Philosophy:** "AI is not magic, it's beautiful mathematics"
+
+### 🎯 What I Do
+
+- 🔧 Build intelligent **RAG (Retrieval Augmented Generation) Systems**
+- 🤖 Develop **NLP models** for real-world applications
+- 🎨 Create **Generative AI solutions** using cutting-edge LLMs
+- 📊 Transform **raw data into actionable insights**
+- 🚀 Deploy **scalable ML solutions** to production
 
 <br clear="right"/>
 
 ---
 
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="22px"> Tech Stack & Skills
+
 <details open>
-<summary><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="22px"> <b>TECH STACK & ARSENAL</b></summary>
+<summary><b>Click to expand/collapse</b></summary>
 <br>
 
 <div align="center">
@@ -139,108 +122,84 @@ print(me.get_motto())
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 🔧 Tools & IDEs
-
-<p>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
 </div>
 </details>
 
 ---
 
-<details open>
-<summary><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="22px"> <b>CURRENT QUEST LOG</b></summary>
-<br>
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="22px"> Current Focus & Learning Journey
 
 <div align="center">
 
-| 🎯 MISSION | 📊 PROGRESS | 🎮 LEVEL | 🔥 STATUS |
-|:-----------|:-----------:|:--------:|:---------:|
-| Master NLP & Deep Learning | ![](https://geps.dev/progress/78?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) | ⭐⭐⭐⭐ | `ACTIVE` |
-| Build RAG & LLM Projects | ![](https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) | ⭐⭐⭐⭐⭐ | `CRUSHING IT` |
-| Learn Vector Databases | ![](https://geps.dev/progress/70?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) | ⭐⭐⭐ | `IN PROGRESS` |
-| MLOps & Deployment | ![](https://geps.dev/progress/65?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) | ⭐⭐⭐ | `LEARNING` |
+| 🎯 Mission | 📊 Progress | 🔥 Status |
+|:-----------|:-----------:|:---------:|
+| Master NLP & Deep Learning | ![](https://geps.dev/progress/78?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) | `ACTIVE` |
+| Build RAG & LLM Projects | ![](https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) | `CRUSHING IT` |
+| Learn Vector Databases | ![](https://geps.dev/progress/70?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) | `IN PROGRESS` |
+| MLOps & Deployment | ![](https://geps.dev/progress/65?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) | `LEARNING` |
 
 </div>
 
-### 🚀 What I'm Currently Building
+### 🚀 What I'm Currently Working On
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 #### 🤖 RAG Systems
-```yaml
-Project: Intelligent Document QA
-Tech Stack:
-  - LangChain
-  - ChromaDB
-  - OpenAI GPT
-  - FastAPI
-Status: 🟢 Active Development
-```
+Building intelligent document Q&A systems using:
+- LangChain for orchestration
+- ChromaDB for vector storage
+- OpenAI GPT for generation
+- FastAPI for deployment
+
+**Status:** 🟢 Active Development
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 #### 🧠 NLP Models
-```yaml
-Project: Sentiment Analysis Engine
-Tech Stack:
-  - Transformers
-  - BERT
-  - PyTorch
-  - Flask
-Status: 🟡 Testing Phase
-```
+Creating sentiment analysis engines with:
+- Transformers library
+- BERT models
+- PyTorch backend
+- Flask API
+
+**Status:** 🟡 Testing Phase
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 #### 🎨 Generative AI
-```yaml
-Project: AI Content Generator
-Tech Stack:
-  - GPT-4
-  - Stable Diffusion
-  - LangChain
-  - Gradio
-Status: 🟢 MVP Ready
-```
+Developing AI content generators using:
+- GPT-4 for text generation
+- Stable Diffusion for images
+- LangChain agents
+- Gradio interfaces
+
+**Status:** 🟢 MVP Ready
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 #### 📊 ML Pipeline
-```yaml
-Project: AutoML Framework
-Tech Stack:
-  - Scikit-learn
-  - MLflow
-  - Docker
-  - AWS
-Status: 🔵 Planning
-```
+Designing AutoML frameworks with:
+- Scikit-learn algorithms
+- MLflow tracking
+- Docker containers
+- AWS deployment
+
+**Status:** 🔵 Planning
 
 </td>
 </tr>
 </table>
 
-</details>
-
 ---
 
-<details open>
-<summary><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="22px"> <b>GITHUB STATISTICS</b></summary>
-<br>
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="22px"> GitHub Statistics
 
 <div align="center">
   
@@ -248,7 +207,7 @@ Status: 🔵 Planning
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra-hn&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra-hn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pavithra_hn&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&layout=compact" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavithra-hn&theme=radical&utcOffset=5.5" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavithra-hn&theme=radical" width="98%" />
 
@@ -264,13 +223,9 @@ Status: 🔵 Planning
 
 </div>
 
-</details>
-
 ---
 
-<details open>
-<summary><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="22px"> <b>AREAS OF EXPERTISE</b></summary>
-<br>
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="22px"> Areas of Expertise
 
 <div align="center">
 
@@ -279,87 +234,106 @@ Status: 🔵 Planning
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
 <b>🧠 Machine Learning</b><br>
-<sub>Supervised & Unsupervised Learning</sub><br>
-<sub>Neural Networks & Deep Learning</sub><br>
-<sub>Computer Vision & NLP</sub>
+<sub>• Supervised & Unsupervised Learning</sub><br>
+<sub>• Neural Networks & Deep Learning</sub><br>
+<sub>• Computer Vision & NLP</sub>
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
 <b>🤖 Generative AI</b><br>
-<sub>Large Language Models</sub><br>
-<sub>RAG Systems & Vector DBs</sub><br>
-<sub>Prompt Engineering</sub>
+<sub>• Large Language Models</sub><br>
+<sub>• RAG Systems & Vector DBs</sub><br>
+<sub>• Prompt Engineering</sub>
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
 <b>📊 Data Science</b><br>
-<sub>Data Analysis & Visualization</sub><br>
-<sub>Feature Engineering</sub><br>
-<sub>Statistical Modeling</sub>
+<sub>• Data Analysis & Visualization</sub><br>
+<sub>• Feature Engineering</sub><br>
+<sub>• Statistical Modeling</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
 <b>🔧 MLOps</b><br>
-<sub>Model Deployment & Serving</sub><br>
-<sub>CI/CD Pipelines</sub><br>
-<sub>Monitoring & Optimization</sub>
+<sub>• Model Deployment & Serving</sub><br>
+<sub>• CI/CD Pipelines</sub><br>
+<sub>• Monitoring & Optimization</sub>
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"><br>
 <b>💬 NLP</b><br>
-<sub>Text Classification & Sentiment Analysis</sub><br>
-<sub>Named Entity Recognition</sub><br>
-<sub>Chatbots & QA Systems</sub>
+<sub>• Text Classification & Sentiment Analysis</sub><br>
+<sub>• Named Entity Recognition</sub><br>
+<sub>• Chatbots & QA Systems</sub>
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"><br>
 <b>🎨 Creative AI</b><br>
-<sub>Image Generation</sub><br>
-<sub>Text-to-Image Models</sub><br>
-<sub>Style Transfer</sub>
+<sub>• Image Generation</sub><br>
+<sub>• Text-to-Image Models</sub><br>
+<sub>• Style Transfer</sub>
 </td>
 </tr>
 </table>
 
 </div>
-</details>
 
 ---
 
-<details>
-<summary><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="22px"> <b>COLLABORATION & INTERESTS</b></summary>
-<br>
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="22px"> Open to Collaborate On
 
-### 🤝 Open to Collaborate On:
+<div align="center">
 
-```typescript
-const collaborationInterests = {
-  aiProjects: [
-    "🤖 Generative AI Applications",
-    "🔗 RAG-based Chatbots & QA Systems",
-    "🧠 NLP & Language Model Fine-tuning",
-    "🎨 Computer Vision Projects",
-    "📊 End-to-End ML Solutions"
-  ],
-  openSource: [
-    "🌟 AI/ML Libraries & Frameworks",
-    "🛠️ Developer Tools for AI",
-    "📚 Educational AI Resources",
-    "🚀 Production ML Infrastructure"
-  ],
-  research: [
-    "📖 Research Paper Implementations",
-    "🔬 Novel AI Architectures",
-    "💡 Innovative ML Applications"
-  ]
-};
-```
+### 🤝 AI & ML Projects
 
-### 💡 Looking to Learn:
+<table>
+<tr>
+<td width="33%" align="center">
+<b>🤖 Generative AI</b><br>
+<sub>AI Applications</sub><br>
+<sub>Text & Image Generation</sub><br>
+<sub>Creative AI Tools</sub>
+</td>
+<td width="33%" align="center">
+<b>🔗 RAG Systems</b><br>
+<sub>Chatbots & QA Systems</sub><br>
+<sub>Document Intelligence</sub><br>
+<sub>Knowledge Management</sub>
+</td>
+<td width="33%" align="center">
+<b>🧠 NLP Projects</b><br>
+<sub>Language Model Fine-tuning</sub><br>
+<sub>Sentiment Analysis</sub><br>
+<sub>Text Classification</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<b>🎨 Computer Vision</b><br>
+<sub>Image Recognition</sub><br>
+<sub>Object Detection</sub><br>
+<sub>Video Analysis</sub>
+</td>
+<td width="33%" align="center">
+<b>📚 Open Source</b><br>
+<sub>AI/ML Libraries</sub><br>
+<sub>Developer Tools</sub><br>
+<sub>Educational Resources</sub>
+</td>
+<td width="33%" align="center">
+<b>🚀 Production AI</b><br>
+<sub>End-to-End Solutions</sub><br>
+<sub>MLOps Infrastructure</sub><br>
+<sub>Scalable Deployments</sub>
+</td>
+</tr>
+</table>
 
-<p align="center">
+### 💡 Currently Learning
+
+<p>
 <img src="https://img.shields.io/badge/Advanced_MLOps-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Multi_Modal_AI-4ECDC4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Edge_AI-FFD93D?style=for-the-badge" />
@@ -367,17 +341,13 @@ const collaborationInterests = {
 <img src="https://img.shields.io/badge/Quantum_ML-F38181?style=for-the-badge" />
 </p>
 
-</details>
+</div>
 
 ---
 
-<details>
-<summary><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="22px"> <b>ACHIEVEMENTS & CERTIFICATIONS</b></summary>
-<br>
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="22px"> Achievements & Certifications
 
 <div align="center">
-
-### 🎓 Certifications & Learning
 
 | 🏆 Achievement | 🏢 Platform | 📅 Status |
 |:--------------|:-----------|:---------:|
@@ -394,13 +364,12 @@ const collaborationInterests = {
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavithrahn/discussion/light" />
 
 </div>
-</details>
 
 ---
 
-<div align="center">
-
 ## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavithra-hn/pavithra-hn/output/github-contribution-grid-snake-dark.svg">
@@ -436,6 +405,7 @@ const collaborationInterests = {
 
 ### 💭 Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 
