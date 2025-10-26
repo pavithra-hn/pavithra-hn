@@ -360,7 +360,6 @@ Designing AutoML frameworks with:
 
 ### 💭 Random Dev Quote
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=%E2%9A%A1+Keep+Learning%2C+Keep+Building!;%F0%9F%9A%80+Let's+Build+the+Future+Together!;%F0%9F%A7%A0+AI+is+not+magic%2C+it's+just+beautiful+math!;%F0%9F%94%A5+Code.+Train.+Deploy.+Repeat.;%F0%9F%92%A1+Innovation+distinguishes+leaders+from+followers!" alt="Footer Typing SVG" />
 
