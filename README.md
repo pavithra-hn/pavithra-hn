@@ -1,12 +1,10 @@
-<!-- 👾 GITHUB PROFILE README: PAVITHRA H N -->
-
-<h1 align="center"> Hey, I'm <span style="color:aqua;">Pavithra H N</span> 👋</h1>
+# Hey, I'm Pavithra H N 👋
 
 <h3 align="center">✨ Turning Data into Intelligence | AI Adventurer | ML & Generative AI Explorer ✨</h3>
 
 <!-- 🏆 TROPHY SECTION -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&no-bg=true&no-frame=true&column=4&row=2&margin-w=10&margin-h=10&title=Commits,Repositories,Experience,Followers,Stars,Issues,PullRequest,Reviews" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -28,7 +26,7 @@
 ## ⚔️ Skill Inventory
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,langchain,huggingface,docker,git,html,css,js,mysql,opencv,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,docker,git,html,css,js,mysql,opencv,vscode" />
 </p>
 
 <p align="center">
@@ -39,7 +37,7 @@
 
 ---
 
-## 🧭 Game Map: What I’m Working On
+## 🧭 Game Map: What I'm Working On
 
 - 🔧 Building **Next-Gen RAG Systems**  
 - 🧩 Exploring **LLMs + Vector Databases**  
@@ -96,4 +94,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Initializing+AI+Journey...;💡+Training+Neural+Networks...;🎯+Deploying+Intelligence+to+the+World!;🔥+Keep+Learning,+Keep+Building!" alt="Typing Animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavithra-hn&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
