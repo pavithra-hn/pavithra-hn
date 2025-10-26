@@ -331,14 +331,6 @@ Designing AutoML frameworks with:
 | NLP with Transformers | Hugging Face | ✅ Completed |
 | AWS ML Specialty | Amazon Web Services | 🟡 In Progress |
 
-### 📈 Kaggle Stats
-
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavithrahn/competition/light" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavithrahn/dataset/light" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavithrahn/notebook/light" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavithrahn/discussion/light" />
-
-
 </div>
 
 
