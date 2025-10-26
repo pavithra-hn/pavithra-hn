@@ -21,9 +21,6 @@
 </p>
 
 </div>
-
----
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🚀 Quick Highlights
@@ -36,16 +33,6 @@
 
 <br clear="right"/>
 
-### 👨‍💻 Who Am I?
-
-**Pavithra H N** - AI/ML Engineer passionate about building intelligent systems that make a difference.
-
-- 🎓 **Education:** B.E. in Artificial Intelligence & Machine Learning
-- 📍 **Location:** Mysuru, Karnataka, India 🇮🇳
-- 🚀 **Focus:** Building Production-Ready RAG Systems & LLM Applications
-- 🧠 **Passion:** Exploring the frontiers of Generative AI and Deep Learning
-- 💡 **Philosophy:** "AI is not magic, it's beautiful mathematics"
-
 ### 🎯 What I Do
 
 - 🔧 Build intelligent **RAG (Retrieval Augmented Generation) Systems**
@@ -55,8 +42,6 @@
 - 🚀 Deploy **scalable ML solutions** to production
 
 <br clear="right"/>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="22px"> Tech Stack & Skills
 
@@ -133,7 +118,6 @@
 </div>
 </details>
 
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="22px"> Current Focus & Learning Journey
 
@@ -205,7 +189,6 @@ Designing AutoML frameworks with:
 </tr>
 </table>
 
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="22px"> GitHub Statistics
 
@@ -214,24 +197,12 @@ Designing AutoML frameworks with:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra-hn&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra-hn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook,html,css&custom_title=Most%20Used%20Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavithra-hn&theme=radical&utcOffset=5.5" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavithra-hn&theme=radical" width="98%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithra-hn&custom_title=Pavithra's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=0D1117&area=true&theme=github-dark" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithra-hn&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=0D1117&area=true&theme=github-dark" width="98%"/>
 
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C,-?" />
-
-</div>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="22px"> Areas of Expertise
 
@@ -287,8 +258,6 @@ Designing AutoML frameworks with:
 </table>
 
 </div>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="22px"> Open to Collaborate On
 
@@ -351,7 +320,7 @@ Designing AutoML frameworks with:
 
 </div>
 
----
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="22px"> Achievements & Certifications
 
@@ -373,7 +342,6 @@ Designing AutoML frameworks with:
 
 </div>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -387,7 +355,6 @@ Designing AutoML frameworks with:
 
 </div>
 
----
 
 <div align="center">
 
@@ -407,7 +374,6 @@ Designing AutoML frameworks with:
 
 ### 💼 [📄 Download My Resume](https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/view?usp=drivesdk)
 
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
@@ -419,18 +385,17 @@ Designing AutoML frameworks with:
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=%E2%9A%A1+Keep+Learning%2C+Keep+Building!;%F0%9F%9A%80+Let's+Build+the+Future+Together!;%F0%9F%A7%A0+AI+is+not+magic%2C+it's+just+beautiful+math!;%F0%9F%94%A5+Code.+Train.+Deploy.+Repeat.;%F0%9F%92%A1+Innovation+distinguishes+leaders+from+followers!" alt="Footer Typing SVG" />
 
 **"Any sufficiently advanced technology is indistinguishable from magic."** - Arthur C. Clarke
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
 
-⭐️ From [Pavithra H N](https://github.com/pavithra-hn) with 💖 | Last Updated: 2025
 
 </div>
