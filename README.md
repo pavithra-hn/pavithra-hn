@@ -338,18 +338,6 @@ Designing AutoML frameworks with:
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavithrahn/notebook/light" />
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavithrahn/discussion/light" />
 
-</div>
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavithra-hn/pavithra-hn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavithra-hn/pavithra-hn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pavithra-hn/pavithra-hn/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
