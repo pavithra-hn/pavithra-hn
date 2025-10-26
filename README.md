@@ -31,8 +31,6 @@
 - 📊 Turning **data into actionable insights**
 - 💡 Creating **production-ready AI systems**
 
-<br clear="right"/>
-
 ### 🎯 What I Do
 
 - 🔧 Build intelligent **RAG (Retrieval Augmented Generation) Systems**
@@ -376,22 +374,6 @@ Designing AutoML frameworks with:
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=%E2%9A%A1+Keep+Learning%2C+Keep+Building!;%F0%9F%9A%80+Let's+Build+the+Future+Together!;%F0%9F%A7%A0+AI+is+not+magic%2C+it's+just+beautiful+math!;%F0%9F%94%A5+Code.+Train.+Deploy.+Repeat.;%F0%9F%92%A1+Innovation+distinguishes+leaders+from+followers!" alt="Footer Typing SVG" />
-
-**"Any sufficiently advanced technology is indistinguishable from magic."** - Arthur C. Clarke
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
