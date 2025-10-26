@@ -4,8 +4,9 @@
 
 <h3 align="center">✨ Turning Data into Intelligence | AI Adventurer | ML & Generative AI Explorer ✨</h3>
 
+<!-- 🏆 TROPHY SECTION -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&margin-w=5&margin-h=5&title=Commits,Repositories,Experience,Followers,Stars,Issues,PullRequest,Reviews&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&no-bg=true&no-frame=true&column=4&row=2&margin-w=10&margin-h=10&title=Commits,Repositories,Experience,Followers,Stars,Issues,PullRequest,Reviews" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -96,4 +97,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Initializing+AI+Journey...;💡+Training+Neural+Networks...;🎯+Deploying+Intelligence+to+the+World!;🔥+Keep+Learning,+Keep+Building!" alt="Typing Animation" />
 </p>
-
