@@ -26,23 +26,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 👨‍💻 Who Am I?
+### 🚀 Quick Highlights
 
-**Pavithra H N** - AI/ML Engineer passionate about building intelligent systems that make a difference.
-
-- 🎓 **Education:** B.E. in Artificial Intelligence & Machine Learning
-- 📍 **Location:** Mysuru, Karnataka, India 🇮🇳
-- 🚀 **Focus:** Building Production-Ready RAG Systems & LLM Applications
-- 🧠 **Passion:** Exploring the frontiers of Generative AI and Deep Learning
-- 💡 **Philosophy:** "AI is not magic, it's beautiful mathematics"
-
-### 🎯 What I Do
-
-- 🔧 Build intelligent **RAG (Retrieval Augmented Generation) Systems**
-- 🤖 Develop **NLP models** for real-world applications
-- 🎨 Create **Generative AI solutions** using cutting-edge LLMs
-- 📊 Transform **raw data into actionable insights**
-- 🚀 Deploy **scalable ML solutions** to production
+- 🔥 **AI/ML Engineer** specializing in **RAG Systems** & **LLMs**
+- 🤖 Building **intelligent solutions** with cutting-edge AI
+- 🧠 Passionate about **Deep Learning** & **Generative AI**
+- 📊 Turning **data into actionable insights**
+- 💡 Creating **production-ready AI systems**
 
 <br clear="right"/>
 
