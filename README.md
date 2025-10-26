@@ -2,9 +2,9 @@
 
 <h3 align="center">✨ Turning Data into Intelligence | AI Adventurer | ML & Generative AI Explorer ✨</h3>
 
-<!-- 🏆 TROPHY SECTION -->
+<!-- 🏆 GITHUB STATS -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavithra-hn&theme=matrix&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
 <p align="center">
