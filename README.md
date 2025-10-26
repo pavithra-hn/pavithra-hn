@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20AI%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Where%20Intelligence%20Meets%20Innovation&descAlignY=51&descAlign=50" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey%2C+I'm+Pavithra+H+N+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+RAG+Architect;Turning+Data+into+Intelligence+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hey%2C+I'm+Pavithra+H+N+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+RAG+Architect;Turning+Data+into+Intelligence+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
@@ -22,9 +22,51 @@
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"> About Me
+---
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 👨‍💻 Who Am I?
+
+**Pavithra H N** - AI/ML Engineer passionate about building intelligent systems that make a difference.
+
+- 🎓 **Education:** B.E. in Artificial Intelligence & Machine Learning
+- 📍 **Location:** Mysuru, Karnataka, India 🇮🇳
+- 🚀 **Focus:** Building Production-Ready RAG Systems & LLM Applications
+- 🧠 **Passion:** Exploring the frontiers of Generative AI and Deep Learning
+- 💡 **Philosophy:** "AI is not magic, it's beautiful mathematics"
+
+### 🎯 What I Do
+
+- 🔧 Build intelligent **RAG (Retrieval Augmented Generation) Systems**
+- 🤖 Develop **NLP models** for real-world applications
+- 🎨 Create **Generative AI solutions** using cutting-edge LLMs
+- 📊 Transform **raw data into actionable insights**
+- 🚀 Deploy **scalable ML solutions** to production
+
+<br clear="right"/>
+
+### 👨‍💻 Who Am I?
+
+**Pavithra H N** - AI/ML Engineer passionate about building intelligent systems that make a difference.
+
+- 🎓 **Education:** B.E. in Artificial Intelligence & Machine Learning
+- 📍 **Location:** Mysuru, Karnataka, India 🇮🇳
+- 🚀 **Focus:** Building Production-Ready RAG Systems & LLM Applications
+- 🧠 **Passion:** Exploring the frontiers of Generative AI and Deep Learning
+- 💡 **Philosophy:** "AI is not magic, it's beautiful mathematics"
+
+### 🎯 What I Do
+
+- 🔧 Build intelligent **RAG (Retrieval Augmented Generation) Systems**
+- 🤖 Develop **NLP models** for real-world applications
+- 🎨 Create **Generative AI solutions** using cutting-edge LLMs
+- 📊 Transform **raw data into actionable insights**
+- 🚀 Deploy **scalable ML solutions** to production
+
+<br clear="right"/>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="22px"> Tech Stack & Skills
 
@@ -101,6 +143,7 @@
 </div>
 </details>
 
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="22px"> Current Focus & Learning Journey
 
@@ -172,6 +215,7 @@ Designing AutoML frameworks with:
 </tr>
 </table>
 
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="22px"> GitHub Statistics
 
@@ -197,6 +241,7 @@ Designing AutoML frameworks with:
 
 </div>
 
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="22px"> Areas of Expertise
 
@@ -252,6 +297,8 @@ Designing AutoML frameworks with:
 </table>
 
 </div>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="22px"> Open to Collaborate On
 
@@ -314,6 +361,7 @@ Designing AutoML frameworks with:
 
 </div>
 
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="22px"> Achievements & Certifications
 
@@ -335,6 +383,8 @@ Designing AutoML frameworks with:
 
 </div>
 
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -347,6 +397,7 @@ Designing AutoML frameworks with:
 
 </div>
 
+---
 
 <div align="center">
 
@@ -366,6 +417,8 @@ Designing AutoML frameworks with:
 
 ### 💼 [📄 Download My Resume](https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/view?usp=drivesdk)
 
+---
+
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 ### 💭 Random Dev Quote
@@ -376,6 +429,8 @@ Designing AutoML frameworks with:
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+---
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=%E2%9A%A1+Keep+Learning%2C+Keep+Building!;%F0%9F%9A%80+Let's+Build+the+Future+Together!;%F0%9F%A7%A0+AI+is+not+magic%2C+it's+just+beautiful+math!;%F0%9F%94%A5+Code.+Train.+Deploy.+Repeat.;%F0%9F%92%A1+Innovation+distinguishes+leaders+from+followers!" alt="Footer Typing SVG" />
 
 **"Any sufficiently advanced technology is indistinguishable from magic."** - Arthur C. Clarke
@@ -385,5 +440,7 @@ Designing AutoML frameworks with:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
+
+⭐️ From [Pavithra H N](https://github.com/pavithra-hn) with 💖 | Last Updated: 2025
 
 </div>
