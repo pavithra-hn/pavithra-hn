@@ -1,27 +1,38 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20AI%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Where%20Intelligence%20Meets%20Innovation&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20AI%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Where%20Intelligence%20Meets%20Innovation&descAlignY=51&descAlign=50" alt="Header banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hey%2C+I'm+Pavithra+H+N+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+RAG+Architect;Turning+Data+into+Intelligence+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hey%2C+I'm+Pavithra+H+N+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+RAG+Architect;Turning+Data+into+Intelligence+%E2%9C%A8" alt="Typing introduction" />
+</a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Animated banner">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/pavithrahn56"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
-  <a href="https://kaggle.com/pavithrahn"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF" /></a>
-  <a href="mailto:pavithrahn56@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /></a>
-  <a href="https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/view"><img src="https://img.shields.io/badge/-Resume-00C7B7?style=for-the-badge&logo=files&logoColor=white&labelColor=00C7B7" /></a>
+  <a href="https://linkedin.com/in/pavithrahn56">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  </a>
+  <a href="https://kaggle.com/pavithrahn">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF" />
+  </a>
+  <a href="mailto:pavithrahn56@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
+  <a href="https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/view">
+    <img src="https://img.shields.io/badge/-Resume-00C7B7?style=for-the-badge&logo=files&logoColor=white&labelColor=00C7B7" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavithra-hn&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pavithra-hn?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
+  <img src="https://img.shields.io/github/followers/pavithra-hn?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub followers" />
 </p>
 
 </div>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ### 🚀 Quick Highlights
 
@@ -116,7 +127,6 @@
 </div>
 </details>
 
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="22px"> Current Focus & Learning Journey
 
 <div align="center">
@@ -141,7 +151,7 @@ Building intelligent document Q&A systems using:
 - LangChain for orchestration
 - ChromaDB for vector storage
 - OpenAI GPT for generation
-- FastAPI for deployment
+- FastAPI for deployment  
 
 **Status:** 🟢 Active Development
 
@@ -153,7 +163,7 @@ Creating sentiment analysis engines with:
 - Transformers library
 - BERT models
 - PyTorch backend
-- Flask API
+- Flask API  
 
 **Status:** 🟡 Testing Phase
 
@@ -167,7 +177,7 @@ Developing AI content generators using:
 - GPT-4 for text generation
 - Stable Diffusion for images
 - LangChain agents
-- Gradio interfaces
+- Gradio interfaces  
 
 **Status:** 🟢 MVP Ready
 
@@ -179,7 +189,7 @@ Designing AutoML frameworks with:
 - Scikit-learn algorithms
 - MLflow tracking
 - Docker containers
-- AWS deployment
+- AWS deployment  
 
 **Status:** 🔵 Planning
 
@@ -187,20 +197,18 @@ Designing AutoML frameworks with:
 </tr>
 </table>
 
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="22px"> GitHub Statistics
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra-hn&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra-hn&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub streak" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavithra-hn&theme=radical" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavithra-hn&theme=radical" width="98%" alt="Profile summary" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithra-hn&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=0D1117&area=true&theme=github-dark" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithra-hn&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=0D1117&area=true&theme=github-dark" width="98%" alt="Contribution graph"/>
 
 </div>
-
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="22px"> Areas of Expertise
 
@@ -209,21 +217,21 @@ Designing AutoML frameworks with:
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="ML icon"><br>
 <b>🧠 Machine Learning</b><br>
 <sub>• Supervised & Unsupervised Learning</sub><br>
 <sub>• Neural Networks & Deep Learning</sub><br>
 <sub>• Computer Vision & NLP</sub>
 </td>
 <td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="Gen AI icon"><br>
 <b>🤖 Generative AI</b><br>
 <sub>• Large Language Models</sub><br>
 <sub>• RAG Systems & Vector DBs</sub><br>
 <sub>• Prompt Engineering</sub>
 </td>
 <td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Data Science icon"><br>
 <b>📊 Data Science</b><br>
 <sub>• Data Analysis & Visualization</sub><br>
 <sub>• Feature Engineering</sub><br>
@@ -232,21 +240,21 @@ Designing AutoML frameworks with:
 </tr>
 <tr>
 <td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="MLOps icon"><br>
 <b>🔧 MLOps</b><br>
 <sub>• Model Deployment & Serving</sub><br>
 <sub>• CI/CD Pipelines</sub><br>
 <sub>• Monitoring & Optimization</sub>
 </td>
 <td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" alt="NLP icon"><br>
 <b>💬 NLP</b><br>
 <sub>• Text Classification & Sentiment Analysis</sub><br>
 <sub>• Named Entity Recognition</sub><br>
 <sub>• Chatbots & QA Systems</sub>
 </td>
 <td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80" alt="Creative AI icon"><br>
 <b>🎨 Creative AI</b><br>
 <sub>• Image Generation</sub><br>
 <sub>• Text-to-Image Models</sub><br>
@@ -318,8 +326,6 @@ Designing AutoML frameworks with:
 
 </div>
 
-
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="22px"> Achievements & Certifications
 
 <div align="center">
@@ -332,7 +338,6 @@ Designing AutoML frameworks with:
 | AWS ML Specialty | Amazon Web Services | 🟡 In Progress |
 
 </div>
-
 
 <div align="center">
 
@@ -352,12 +357,10 @@ Designing AutoML frameworks with:
 
 ### 💼 [📄 View My Resume](https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/preview)
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="Footer animation">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="Footer banner"/>
 </p>
-
 
 </div>
