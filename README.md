@@ -1,98 +1,58 @@
-# 👋 Hi, I’m Pavithra H N
+<h1 align="center">Hi 👋, I'm Pavithra H N</h1>
+<h3 align="center">AI / ML Engineer | RAG Systems | Generative AI</h3>
 
-**AI / ML Engineer | RAG Systems | Generative AI**
-
-I build **production-ready AI systems** focused on **LLMs, RAG architectures, NLP, and applied Machine Learning**.  
-Passionate about turning complex data into **intelligent, scalable solutions**.
-
----
-
-## 🚀 What I Do
-
-- Design and build **Retrieval-Augmented Generation (RAG)** systems  
-- Develop **LLM-powered applications** for document intelligence & Q&A  
-- Build **NLP & ML models** for real-world use cases  
-- Deploy **scalable AI systems** using modern ML stacks  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pavithra-hn&label=Profile%20views&color=0e75b6&style=flat" alt="pavithra-hn" />
+</p>
 
 ---
 
-## 🧠 Core Skills
-
-**AI / ML**
-- Machine Learning, Deep Learning  
-- NLP, Computer Vision  
-- Model evaluation & optimization  
-
-**Generative AI & LLMs**
-- RAG systems  
-- Prompt engineering  
-- LangChain, OpenAI, Hugging Face  
-
-**Data & Backend**
-- Pandas, NumPy, Scikit-learn  
-- ChromaDB, FAISS, Pinecone  
-- Flask, FastAPI  
-
-**Dev & Deployment**
-- Git & GitHub  
-- Docker  
-- AWS (Basics)  
-- Linux  
+- 🔭 Currently working on **RAG & Multimodal AI Systems**
+- 🌱 Learning **Advanced LLMs, Multimodal AI & MLOps**
+- 💬 Ask me about **Machine Learning, NLP, RAG & LLMs**
+- 📫 Reach me at **pavithrahn56@gmail.com**
+- 📄 View my resume:  
+  <a href="https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/preview">Resume</a>
 
 ---
 
-## 🛠 Tech Stack
-
-- **Languages:** Python, JavaScript, SQL  
-- **Frameworks:** Flask, FastAPI, Streamlit, LangChain  
-- **Libraries:** PyTorch, TensorFlow, Transformers, OpenCV  
-- **Databases:** MySQL, MongoDB, Vector Databases  
-- **Tools:** Docker, Git, VS Code, Google Colab  
-
----
-
-## 📌 Current Focus
-
-- Advanced **RAG & Multimodal AI systems**  
-- LLM optimization & vector search  
-- MLOps & deployment best practices  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/pavithrahn56" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/pavithrahn" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 📂 Key Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
-- **Vision-First Multimodal RAG**  
-  PDF Q&A system with table, chart, and image understanding using GPT-4o  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 
-- **AskMyPDF**  
-  Document-aware chatbot with semantic search  
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 
-- **AI Code Debugger**  
-  LLM-based code analysis and fix suggestions  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 
-- **Traffic Sign Detection**  
-  YOLO-based real-time object detection  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&hide_border=true)
-
----
-
-## 🤝 Open to Collaborate On
-
-- RAG & LLM applications  
-- NLP / ML projects  
-- Open-source AI tools  
-- Production AI systems  
+</p>
 
 ---
 
-## 📫 Connect With Me
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavithra-hn&show_icons=true&locale=en&layout=compact" />
+</p>
 
-- **LinkedIn:** https://linkedin.com/in/pavithrahn56  
-- **Email:** pavithrahn56@gmail.com  
-- **Kaggle:** https://kaggle.com/pavithrahn  
-- **Resume:** https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/preview
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&hide_border=true" />
+</p>
