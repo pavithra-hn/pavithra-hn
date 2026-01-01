@@ -12,7 +12,7 @@
 - 💬 Ask me about **Machine Learning, NLP, RAG & LLMs**
 - 📫 Reach me at **pavithrahn56@gmail.com**
 - 📄 View my resume:
-  <a href="https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/preview">Resume</a>
+  <a href="[https://drive.google.com/file/d/1bUaXqcnPiJ6ODxb9lBNGTRKlG_xJY_po/preview](https://drive.google.com/file/d/1hh-jP_EfaEP6n0w1GA5fcUaeakjr8o0V/view?usp=sharing)">Resume</a>
 
 ---
 
