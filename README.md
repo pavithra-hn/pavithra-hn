@@ -2,6 +2,8 @@
 
 ### AI / ML Engineer | RAG Systems | Generative AI
 
+![Profile views](https://komarev.com/ghpvc/?username=pavithra-hn&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 - 🔭 Currently working on **RAG & Multimodal AI Systems**
@@ -54,9 +56,13 @@
 ---
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavithra-hn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra-hn&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra-hn&theme=light" alt="GitHub Streak" />
 </p>
