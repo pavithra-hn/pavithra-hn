@@ -55,14 +55,16 @@
 
 ---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra-hn&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" />
+### 📊 GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra-hn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="pavithra-hn" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="pavithra-hn" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra-hn&theme=light" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra-hn&theme=radical&hide_border=true&background=0d1117" alt="pavithra-hn" />
 </p>
