@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 Currently working on **AI in Gamming **
+- 🔭 Currently working on **AI in Gamming**
 - 🌱 Learning **Advanced LLMs, MCP**
 - 💬 Ask me about **Machine Learning, NLP, RAG & LLMs**
 - 📫 Reach me at **pavithrahn56@gmail.com**
