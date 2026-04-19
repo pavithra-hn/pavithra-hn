@@ -1,10 +1,4 @@
-I understand exactly what you mean! You want the new technologies you've been working with (like **Gemini, Apify, Playwright, Typebot**) visually highlighted using logos—just like how you display OpenAI and LangChain in your skills section. Plus, you want the internship section to look extremely professional and creative.
 
-To do this, I've transformed your **"Recent Internship Experience"** into a very clean, professional table that dynamically displays beautiful tech-stack badge logos right next to your achievements. Also, I've added the large 40x40 animated logos for **Gemini**, **Playwright**, **Typebot**, and **Apify** into your main "Skills & Technologies" section so recruiters instantly see what tools you used. 
-
-Here is the creative, highly professional version. Copy and paste this directly into your `README.md`:
-
-```markdown
 # Hi 👋, I'm Pavithra H N
 ### AI / ML Engineer | RAG Systems | Generative AI
 
