@@ -85,14 +85,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra-hn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra-hn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
