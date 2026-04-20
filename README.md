@@ -9,7 +9,7 @@
 - 🌱 Learning **Advanced LLMs, UI/UX Gamification & Web Scraping Automation**
 - 💬 Ask me about **Machine Learning, GenAI, Web Automation & Chatbots**
 - 📫 Reach me at **pavithrahn56@gmail.com**
-- 📄 View my resume: [Resume](https://drive.google.com/file/d/1hh-jP_EfaEP6n0w1GA5fcUaeakjr8o0V/view?usp=sharing)
+- 📄 View my resume: [Resume](https://drive.google.com/file/d/1MKYZkYATcADT_C3vD5PdLHhjKJFJ381U/view?usp=sharing)
 
 ---
 
