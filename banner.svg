@@ -58,6 +58,7 @@
   .orbit { animation: nodeBob 3s ease-in-out infinite; }
   .orbit2 { animation: nodeBob 3s ease-in-out infinite; animation-delay: -1.5s; }
   .waveHand { transform-box: fill-box; transform-origin: 80% 90%; animation: waveHand 1.8s ease-in-out infinite alternate; }
+  .hairSway { transform-box: fill-box; transform-origin: 50% 0%; animation: hairSway 4s ease-in-out infinite alternate; }
 
   @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
   @keyframes pulse { 0%, 100% { transform: scale(1); opacity: 0.7; } 50% { transform: scale(1.15); opacity: 1; } }
@@ -72,6 +73,7 @@
   @keyframes codeLine { 0% { opacity: 0; transform: translateX(-8px); } 15% { opacity: 1; transform: translateX(0); } 70% { opacity: 1; } 85%, 100% { opacity: 0; } }
   @keyframes nodeBob { 0%, 100% { transform: translateY(0); opacity: .6; } 50% { transform: translateY(-7px); opacity: 1; } }
   @keyframes waveHand { from { transform: rotate(-8deg); } to { transform: rotate(18deg); } }
+  @keyframes hairSway { from { transform: rotate(-2.5deg); } to { transform: rotate(2.5deg); } }
 
   @media (prefers-reduced-motion: reduce) {
     * { animation: none !important; }
@@ -262,147 +264,179 @@
 </g></g>
 
 <!-- Neural network ring behind character -->
-<g transform="translate(875, 230)">
-  <circle cx="0" cy="0" r="110" fill="none" stroke="#F0D4E8" stroke-width="2" stroke-dasharray="8 6"/>
-  <circle cx="0" cy="0" r="95" fill="none" stroke="#E8D5F0" stroke-width="1.5" stroke-dasharray="4 8"/>
+<g transform="translate(875, 240)">
+  <circle cx="0" cy="0" r="132" fill="none" stroke="#F0D4E8" stroke-width="2" stroke-dasharray="8 6"/>
+  <circle cx="0" cy="0" r="114" fill="none" stroke="#E8D5F0" stroke-width="1.5" stroke-dasharray="4 8"/>
   <!-- Orbiting dots -->
   <g class="orbit">
-    <circle cx="0" cy="-110" r="6" fill="#FF7EB6"/>
+    <circle cx="0" cy="-132" r="6" fill="#FF7EB6"/>
   </g>
   <g class="orbit2">
-    <circle cx="0" cy="95" r="5" fill="#A98BFF"/>
+    <circle cx="0" cy="114" r="5" fill="#A98BFF"/>
+  </g>
+  <g class="orbit">
+    <circle cx="-132" cy="0" r="4.5" fill="#FFC94D"/>
+  </g>
+  <g class="orbit2">
+    <circle cx="132" cy="0" r="4.5" fill="#4FD1A5"/>
   </g>
 </g>
 
-<!-- ===== CHARACTER: Cute Girl Coding ===== -->
-<g transform="translate(875, 230)">
-  <!-- Cloud seat -->
-  <ellipse cx="0" cy="95" rx="90" ry="18" fill="#F8F0FF" stroke="#E8D5F0" stroke-width="2"/>
-  <ellipse cx="-50" cy="88" rx="35" ry="14" fill="#FFFFFF" stroke="#E8D5F0" stroke-width="1.5"/>
-  <ellipse cx="50" cy="88" rx="35" ry="14" fill="#FFFFFF" stroke="#E8D5F0" stroke-width="1.5"/>
-  <ellipse cx="0" cy="82" rx="45" ry="16" fill="#FFFFFF" stroke="#E8D5F0" stroke-width="1.5"/>
+<!-- ===== CHARACTER: chibi girl AI engineer ===== -->
+<g transform="translate(875, 270)">
 
-  <!-- Body/dress -->
-  <path d="M-38,45 Q-45,75 -55,90 L55,90 Q45,75 38,45 Z" fill="#FFB3D9"/>
-  <path d="M-38,45 Q0,55 38,45" fill="none" stroke="#FF9CCB" stroke-width="2"/>
-  <!-- Heart on dress -->
-  <g transform="translate(0, 65) scale(0.6)">
+  <!-- cloud seat -->
+  <ellipse cx="0" cy="104" rx="100" ry="22" fill="#F8F0FF" stroke="#E8D5F0" stroke-width="2"/>
+  <ellipse cx="-58" cy="96" rx="40" ry="17" fill="#FFFFFF" stroke="#E8D5F0" stroke-width="1.5"/>
+  <ellipse cx="58" cy="96" rx="40" ry="17" fill="#FFFFFF" stroke="#E8D5F0" stroke-width="1.5"/>
+  <ellipse cx="0" cy="90" rx="54" ry="19" fill="#FFFFFF" stroke="#E8D5F0" stroke-width="1.5"/>
+  <ellipse cx="-28" cy="104" rx="26" ry="11" fill="#FFF5FB" stroke="#E8D5F0" stroke-width="1"/>
+  <ellipse cx="28" cy="104" rx="26" ry="11" fill="#FFF5FB" stroke="#E8D5F0" stroke-width="1"/>
+
+<!-- hair: back mass (drawn BEFORE the face) -->
+  <path d="M-64,-116 C-64,-152 -35,-176 0,-176 C35,-176 64,-152 64,-116 C64,-80 35,-56 0,-56 C-35,-56 -64,-80 -64,-116 Z" fill="#4A2C5A"/>
+  <path d="M-36,-156 Q-16,-172 6,-166" fill="none" stroke="#6B3D7A" stroke-width="4.5" stroke-linecap="round" opacity="0.5"/>
+  <path d="M32,-150 Q42,-140 46,-126" fill="none" stroke="#6B3D7A" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
+
+  <!-- side locks framing the face (gentle sway) -->
+  <g class="hairSway">
+    <path d="M-58,-142 C-76,-108 -74,-64 -63,-34 C-59,-22 -48,-25 -46,-37 C-43,-70 -48,-112 -52,-144 Z" fill="#4A2C5A"/>
+    <path d="M58,-142 C76,-108 74,-64 63,-34 C59,-22 48,-25 46,-37 C43,-70 48,-112 52,-144 Z" fill="#4A2C5A"/>
+    <path d="M-58,-134 C-70,-106 -68,-70 -60,-44" fill="none" stroke="#6B3D7A" stroke-width="2.5" stroke-linecap="round" opacity="0.4"/>
+    <path d="M58,-134 C70,-106 68,-70 60,-44" fill="none" stroke="#6B3D7A" stroke-width="2.5" stroke-linecap="round" opacity="0.4"/>
+  </g>
+
+  <!-- neck -->
+  <path d="M-15,-64 L15,-64 L15,-34 L-15,-34 Z" fill="#F0BFA0"/>
+  <ellipse cx="0" cy="-38" rx="19" ry="9" fill="#FFDCC6"/>
+
+  <!-- hoodie / torso -->
+  <path d="M-44,-34 Q-56,12 -62,74 L62,74 Q56,12 44,-34 Q0,-22 -44,-34 Z" fill="#FFB8D8"/>
+  <!-- hood collar -->
+  <path d="M-47,-37 Q-30,-15 0,-15 Q30,-15 47,-37 Q24,-41 0,-41 Q-24,-41 -47,-37 Z" fill="#FF9CC0"/>
+  <!-- heart patch -->
+  <g transform="translate(0,8) scale(0.62)">
     <path d="M0,4 C0,-3 9,-6 12,1 C15,-6 24,-3 24,4 C24,12 12,19 12,19 C12,19 0,12 0,4 Z" fill="#FFFFFF"/>
   </g>
+  <!-- drawstrings -->
+  <path d="M-15,-29 Q-18,-14 -16,1" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M15,-29 Q18,-14 16,1" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="-16" cy="3" r="2.8" fill="#FFFFFF"/>
+  <circle cx="16" cy="3" r="2.8" fill="#FFFFFF"/>
 
-  <!-- Arms -->
-  <path d="M-38,50 Q-55,65 -48,78" fill="none" stroke="#FFDCC6" stroke-width="12" stroke-linecap="round"/>
-  <path d="M38,50 Q55,65 48,78" fill="none" stroke="#FFDCC6" stroke-width="12" stroke-linecap="round"/>
+  <!-- arms (behind the laptop) -->
+  <path d="M-42,-26 Q-68,20 -54,76" fill="none" stroke="#FFDCC6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M42,-26 Q68,20 54,76" fill="none" stroke="#FFDCC6" stroke-width="14" stroke-linecap="round"/>
+  <ellipse cx="-53" cy="72" rx="10" ry="8" fill="#FFB8D8"/>
+  <ellipse cx="53" cy="72" rx="10" ry="8" fill="#FFB8D8"/>
 
-  <!-- Laptop -->
-  <g transform="translate(0, 72)">
-    <!-- Laptop base -->
-    <path d="M-52,0 L52,0 L58,10 L-58,10 Z" fill="#C9C4D6" stroke="#9B97A8" stroke-width="2" stroke-linejoin="round"/>
-    <!-- Laptop screen back -->
-    <rect x="-50" y="-42" width="100" height="42" rx="5" fill="#8B87A0" stroke="#6E6A85" stroke-width="2"/>
-    <!-- Screen -->
-    <rect x="-46" y="-38" width="92" height="34" rx="3" fill="#1A1A2E"/>
-    <!-- Code lines on screen -->
-    <rect x="-42" y="-34" width="30" height="3" rx="1.5" fill="#A98BFF" class="codeLine"/>
-    <rect x="-42" y="-28" width="22" height="3" rx="1.5" fill="#4FD1A5" class="codeLine2"/>
-    <rect x="-42" y="-22" width="36" height="3" rx="1.5" fill="#FF7EB6" class="codeLine3"/>
-    <rect x="-42" y="-16" width="18" height="3" rx="1.5" fill="#A98BFF" class="codeLine"/>
-    <!-- Cursor blink -->
-    <rect x="-22" y="-16" width="3" height="3" fill="#FFFFFF" class="blink"/>
-    <!-- Heart sticker on laptop -->
-    <g transform="translate(32, -28) scale(0.5)">
+  <!-- laptop -->
+  <g transform="translate(0, 86)">
+    <path d="M-58,0 L58,0 L66,12 L-66,12 Z" fill="#C9C4D6" stroke="#9B97A8" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="-56" y="-50" width="112" height="50" rx="7" fill="#8B87A0" stroke="#6E6A85" stroke-width="2"/>
+    <rect x="-52" y="-46" width="104" height="42" rx="5" fill="#1A1A2E"/>
+    <!-- code lines typing -->
+    <rect x="-48" y="-41" width="34" height="3.5" rx="1.75" fill="#A98BFF" class="codeLine"/>
+    <rect x="-48" y="-34" width="26" height="3.5" rx="1.75" fill="#4FD1A5" class="codeLine2"/>
+    <rect x="-48" y="-27" width="42" height="3.5" rx="1.75" fill="#FF7EB6" class="codeLine3"/>
+    <rect x="-48" y="-20" width="22" height="3.5" rx="1.75" fill="#A98BFF" class="codeLine"/>
+    <rect x="-22" y="-20" width="3" height="3.5" fill="#FFFFFF" class="blink"/>
+    <!-- stickers -->
+    <g transform="translate(38, -38) scale(0.6)">
       <path d="M0,4 C0,-3 9,-6 12,1 C15,-6 24,-3 24,4 C24,12 12,19 12,19 C12,19 0,12 0,4 Z" fill="#FF7EB6"/>
     </g>
-  </g>
-
-  <!-- Hands on laptop -->
-  <circle cx="-48" cy="78" r="8" fill="#FFDCC6"/>
-  <circle cx="48" cy="78" r="8" fill="#FFDCC6"/>
-
-  <!-- Neck -->
-  <rect x="-8" y="32" width="16" height="16" fill="#FFDCC6"/>
-
-  <!-- Head -->
-  <ellipse cx="0" cy="8" rx="42" ry="40" fill="#FFDCC6"/>
-
-  <!-- Hair - back -->
-  <path d="M-42,8 C-48,-20 -30,-48 0,-48 C30,-48 48,-20 42,8 C46,20 44,35 38,42 C30,48 -30,48 -38,42 C-44,35 -46,20 -42,8 Z" fill="#4A2C5A"/>
-
-  <!-- Hair - space buns -->
-  <circle cx="-36" cy="-32" r="18" fill="#4A2C5A"/>
-  <circle cx="36" cy="-32" r="18" fill="#4A2C5A"/>
-  <!-- Bows on buns -->
-  <g transform="translate(-36, -32)">
-    <path d="M-10,-4 L-2,0 L-10,4 Z" fill="#FF7EB6"/>
-    <path d="M10,-4 L2,0 L10,4 Z" fill="#FF7EB6"/>
-    <circle cx="0" cy="0" r="3" fill="#E05A97"/>
-  </g>
-  <g transform="translate(36, -32)">
-    <path d="M-10,-4 L-2,0 L-10,4 Z" fill="#FF7EB6"/>
-    <path d="M10,-4 L2,0 L10,4 Z" fill="#FF7EB6"/>
-    <circle cx="0" cy="0" r="3" fill="#E05A97"/>
-  </g>
-
-  <!-- Hair - front bangs -->
-  <path d="M-40,-8 Q-20,-28 0,-20 Q20,-28 40,-8 Q35,-18 20,-22 Q0,-18 -20,-22 Q-35,-18 -40,-8 Z" fill="#4A2C5A"/>
-
-  <!-- Headset -->
-  <path d="M-44,8 Q-44,-35 0,-35 Q44,-35 44,8" fill="none" stroke="#A98BFF" stroke-width="5" stroke-linecap="round"/>
-  <rect x="-50" y="-2" width="12" height="24" rx="6" fill="#A98BFF"/>
-  <rect x="38" y="-2" width="12" height="24" rx="6" fill="#A98BFF"/>
-  <!-- Mic -->
-  <path d="M38,16 Q38,32 20,32" fill="none" stroke="#8468E8" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="20" cy="32" r="4" fill="#8468E8"/>
-  <!-- Heart charm on headset -->
-  <g transform="translate(0, -35) scale(0.4)">
-    <path d="M0,4 C0,-3 9,-6 12,1 C15,-6 24,-3 24,4 C24,12 12,19 12,19 C12,19 0,12 0,4 Z" fill="#FF7EB6"/>
-  </g>
-
-  <!-- Face -->
-  <!-- Blush -->
-  <ellipse cx="-24" cy="16" rx="10" ry="6" fill="#FF9EC4" opacity="0.6"/>
-  <ellipse cx="24" cy="16" rx="10" ry="6" fill="#FF9EC4" opacity="0.6"/>
-
-  <!-- Eyes -->
-  <g class="blink">
-    <ellipse cx="-16" cy="6" rx="7" ry="9" fill="#3D2249"/>
-    <ellipse cx="16" cy="6" rx="7" ry="9" fill="#3D2249"/>
-    <!-- Eye shine -->
-    <circle cx="-14" cy="2" r="3" fill="#FFFFFF"/>
-    <circle cx="18" cy="2" r="3" fill="#FFFFFF"/>
-    <circle cx="-18" cy="8" r="1.5" fill="#FFFFFF"/>
-    <circle cx="14" cy="8" r="1.5" fill="#FFFFFF"/>
-  </g>
-
-  <!-- Eyebrows -->
-  <path d="M-24,-6 Q-16,-10 -8,-6" fill="none" stroke="#4A2C5A" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M8,-6 Q16,-10 24,-6" fill="none" stroke="#4A2C5A" stroke-width="2.5" stroke-linecap="round"/>
-
-  <!-- Smile -->
-  <path d="M-8,22 Q0,30 8,22" fill="none" stroke="#B85F80" stroke-width="2.5" stroke-linecap="round"/>
-
-  <!-- Ponytail -->
-  <g transform="translate(42, -10)"><g class="sway">
-    <ellipse cx="0" cy="20" rx="14" ry="28" fill="#4A2C5A"/>
-    <ellipse cx="4" cy="42" rx="10" ry="18" fill="#3B2148"/>
-    <!-- Bow on ponytail -->
-    <g transform="translate(0, -2)">
-      <path d="M-8,-4 L-2,0 L-8,4 Z" fill="#FF7EB6"/>
-      <path d="M8,-4 L2,0 L8,4 Z" fill="#FF7EB6"/>
-      <circle cx="0" cy="0" r="2.5" fill="#E05A97"/>
+    <g transform="translate(44, -24) scale(0.32)">
+      <path d="M0,-12 L3,-3 L12,0 L3,3 L0,12 L-3,3 L-12,0 L-3,-3 Z" fill="#FFC94D"/>
     </g>
   </g>
-</g>
 
-  <!-- Floating hearts around character -->
-  <g transform="translate(-70, -40)"><g class="heartUp">
-    <path d="M0,4 C0,-3 9,-6 12,1 C15,-6 24,-3 24,4 C24,12 12,19 12,19 C12,19 0,12 0,4 Z" fill="#FF7EB6" transform="scale(0.7)"/>
+  <!-- hands resting on the keyboard -->
+  <circle cx="-51" cy="86" r="10" fill="#FFDCC6"/>
+  <circle cx="51" cy="86" r="10" fill="#FFDCC6"/>
+  <ellipse cx="-54" cy="84" rx="3" ry="2" fill="#F0BFA0"/>
+  <ellipse cx="-48" cy="84" rx="3" ry="2" fill="#F0BFA0"/>
+  <ellipse cx="54" cy="84" rx="3" ry="2" fill="#F0BFA0"/>
+  <ellipse cx="48" cy="84" rx="3" ry="2" fill="#F0BFA0"/>
+
+  <!-- FACE (on top of the hair back mass) -->
+  <ellipse cx="0" cy="-112" rx="54" ry="58" fill="#FFDCC6"/>
+  <ellipse cx="0" cy="-72" rx="21" ry="9" fill="#FFE8D8" opacity="0.6"/>
+
+  <!-- headset (band arcs over the hair) -->
+  <path d="M-64,-126 A 64 54 0 0 1 64,-126" fill="none" stroke="#A98BFF" stroke-width="6" stroke-linecap="round"/>
+  <rect x="-72" y="-134" width="16" height="30" rx="8" fill="#A98BFF"/>
+  <rect x="56" y="-134" width="16" height="30" rx="8" fill="#A98BFF"/>
+  <rect x="-70" y="-131" width="12" height="24" rx="6" fill="#C9B6FF"/>
+  <rect x="58" y="-131" width="12" height="24" rx="6" fill="#C9B6FF"/>
+  <!-- mic boom, curving past the cheek -->
+  <path d="M58,-106 Q62,-72 38,-64" fill="none" stroke="#8468E8" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="36" cy="-63" r="5.5" fill="#8468E8"/>
+  <circle cx="36" cy="-63" r="2.4" fill="#C9B6FF"/>
+
+  <!-- bangs (over the forehead) -->
+  <path d="M-56,-124 C-52,-158 -28,-178 0,-178 C28,-178 52,-158 56,-124 L46,-142 L32,-132 L16,-150 L0,-132 L-16,-150 L-32,-132 L-46,-142 Z" fill="#4A2C5A"/>
+  <path d="M-26,-160 Q-14,-168 -2,-162" fill="none" stroke="#6B3D7A" stroke-width="3.5" stroke-linecap="round" opacity="0.5"/>
+
+  <!-- big pink bow on top -->
+  <g transform="translate(0, -186)">
+    <path d="M-5,-2 C-15,-19 -35,-17 -37,-4 C-39,9 -19,13 -5,5 Z" fill="#FF7EB6"/>
+    <path d="M5,-2 C15,-19 35,-17 37,-4 C39,9 19,13 5,5 Z" fill="#FF7EB6"/>
+    <path d="M-7,-2 C-15,-14 -29,-13 -31,-5 C-32,4 -18,8 -7,4 Z" fill="#FF9CC0"/>
+    <path d="M7,-2 C15,-14 29,-13 31,-5 C32,4 18,8 7,4 Z" fill="#FF9CC0"/>
+    <circle cx="0" cy="0" r="8.5" fill="#E05A97"/>
+    <circle cx="-2.5" cy="-2.5" r="3.5" fill="#FF9CC0"/>
+    <path d="M-6,7 Q-13,21 -9,30 Q-3,21 0,9 Z" fill="#FF7EB6"/>
+    <path d="M6,7 Q13,21 9,30 Q3,21 0,9 Z" fill="#FF7EB6"/>
+  </g>
+
+  <!-- face features -->
+  <!-- blush -->
+  <ellipse cx="-36" cy="-88" rx="14" ry="9" fill="#FF9EC4" opacity="0.45"/>
+  <ellipse cx="36" cy="-88" rx="14" ry="9" fill="#FF9EC4" opacity="0.45"/>
+  <path d="M-42,-88 L-38,-88 M-37,-84 L-33,-84 M-43,-83 L-39,-83" stroke="#FF7EB6" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M42,-88 L38,-88 M37,-84 L33,-84 M43,-83 L39,-83" stroke="#FF7EB6" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- eyes: big, tall, three highlights each -->
+  <g class="blink">
+    <ellipse cx="-22" cy="-106" rx="12" ry="14" fill="#3D2249"/>
+    <ellipse cx="22" cy="-106" rx="12" ry="14" fill="#3D2249"/>
+    <ellipse cx="-22" cy="-104" rx="8" ry="10" fill="#6B4C7E"/>
+    <ellipse cx="22" cy="-104" rx="8" ry="10" fill="#6B4C7E"/>
+    <ellipse cx="-26" cy="-111" rx="5.5" ry="6.5" fill="#FFFFFF"/>
+    <ellipse cx="18" cy="-111" rx="5.5" ry="6.5" fill="#FFFFFF"/>
+    <circle cx="-27" cy="-100" r="3" fill="#FFFFFF" opacity="0.95"/>
+    <circle cx="17" cy="-100" r="3" fill="#FFFFFF" opacity="0.95"/>
+    <circle cx="-22" cy="-97" r="2" fill="#FFFFFF" opacity="0.75"/>
+    <circle cx="22" cy="-97" r="2" fill="#FFFFFF" opacity="0.75"/>
+  </g>
+  <!-- upper lash line -->
+  <path d="M-34,-118 Q-22,-124 -10,-118" fill="none" stroke="#3D2249" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M10,-118 Q22,-124 34,-118" fill="none" stroke="#3D2249" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- eyebrows -->
+  <path d="M-32,-130 Q-22,-136 -12,-130" fill="none" stroke="#4A2C5A" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M12,-130 Q22,-136 32,-130" fill="none" stroke="#4A2C5A" stroke-width="2.6" stroke-linecap="round"/>
+
+  <!-- tiny nose -->
+  <ellipse cx="0" cy="-92" rx="2.2" ry="1.6" fill="#E8B8A0"/>
+
+  <!-- cute omega smile -->
+  <path d="M-14,-80 Q-7,-71 0,-80 Q7,-71 14,-80" fill="none" stroke="#C4607F" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- tongue -->
+  <path d="M-5,-76 Q0,-70 5,-76 Q0,-74 -5,-76 Z" fill="#FF8FB0"/>
+
+  <!-- floating hearts -->
+  <g transform="translate(-86, -60)"><g class="heartUp">
+    <path d="M0,4 C0,-3 9,-6 12,1 C15,-6 24,-3 24,4 C24,12 12,19 12,19 C12,19 0,12 0,4 Z" fill="#FF7EB6" transform="scale(0.75)"/>
   </g></g>
-  <g transform="translate(70, -60)"><g class="heartUp2">
-    <path d="M0,4 C0,-3 9,-6 12,1 C15,-6 24,-3 24,4 C24,12 12,19 12,19 C12,19 0,12 0,4 Z" fill="#A98BFF" transform="scale(0.5)"/>
+  <g transform="translate(84, -76)"><g class="heartUp2">
+    <path d="M0,4 C0,-3 9,-6 12,1 C15,-6 24,-3 24,4 C24,12 12,19 12,19 C12,19 0,12 0,4 Z" fill="#A98BFF" transform="scale(0.6)"/>
   </g></g>
-  <g transform="translate(60, 20)"><g class="heartUp3">
-    <path d="M0,4 C0,-3 9,-6 12,1 C15,-6 24,-3 24,4 C24,12 12,19 12,19 C12,19 0,12 0,4 Z" fill="#FFC94D" transform="scale(0.6)"/>
+  <g transform="translate(78, 30)"><g class="heartUp3">
+    <path d="M0,4 C0,-3 9,-6 12,1 C15,-6 24,-3 24,4 C24,12 12,19 12,19 C12,19 0,12 0,4 Z" fill="#FFC94D" transform="scale(0.65)"/>
+  </g></g>
+  <g transform="translate(-78, 16)"><g class="heartUp">
+    <path d="M0,4 C0,-3 9,-6 12,1 C15,-6 24,-3 24,4 C24,12 12,19 12,19 C12,19 0,12 0,4 Z" fill="#FF7EB6" transform="scale(0.5)"/>
   </g></g>
 </g>
 
