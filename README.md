@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Pavithra H N, AI Specialist" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DD6F5,100:F25FA8&height=210&section=header&text=Pavithra%20H%20N&fontSize=62&fontColor=EDE9FF&animation=fadeIn&desc=AI%20Specialist%20%7C%20Player%201%20ready&descSize=20&descAlignY=62&fontAlignY=36" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F25FA8&center=true&vCenter=true&width=700&lines=Loading+model...+done;Teaching+LLMs+to+write+in+3+languages;Making+AI+draw+heavy+machines;Helping+AI+crawlers+understand+the+web" alt="Typing intro" />
@@ -10,11 +8,28 @@
   <img src="https://komarev.com/ghpvc/?username=pavithra-hn&label=Profile%20views&color=3DD6F5&style=flat-square" alt="Profile views" />
 </p>
 
-### <img src="https://api.iconify.design/mdi/gamepad-variant.svg?color=%233dd6f5" width="24" /> Character
+### <img src="https://api.iconify.design/mdi/gamepad-variant.svg?color=%233dd6f5" width="24" /> Character Sheet
 
-<p align="center">
-  <img src="assets/player-card.svg" width="100%" alt="Character sheet: AI Specialist skills and abilities" />
-</p>
+```text
+  ▶ PLAYER 1 ........................ Pavithra H N
+
+  Class          AI Specialist
+  Guild          Plant & Equipment, Dubai
+  Main weapon    Python
+  Magic          Open-weights LLMs
+
+  SKILLS
+  LLM pipelines          ██████████████████░░  92
+  Multilingual GenAI     ██████████████████░░  90
+  Web automation         █████████████████░░░  87
+  AI image generation    █████████████████░░░  85
+  AI visibility          ████████████████░░░░  82
+  Chatbots               ████████████████░░░░  80
+
+  ABILITIES UNLOCKED
+  [ Fact-checking AI ]  [ Background removal ]
+  [ Crawler-friendly pages ]  [ Docs with Diataxis ]
+```
 
 ### <img src="https://api.iconify.design/mdi/sword-cross.svg?color=%233dd6f5" width="24" /> Quests
 
@@ -70,3 +85,5 @@
 </p>
 
 <p align="center"><i>Game saved. See you in the next level.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F25FA8,100:3DD6F5&height=120&section=footer" width="100%" />
