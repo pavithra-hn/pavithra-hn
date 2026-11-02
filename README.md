@@ -1,6 +1,4 @@
-## Hi, I'm Pavithra
-
-<img src="banner.png" width="100%" alt="Pavithra H N, AI Specialist" />
+<img src="banner.svg" width="100%" alt="Pavithra H N, AI Specialist" />
 
 I'm an AI Specialist in Dubai, building production AI services for a heavy equipment marketplace and news platform. I mostly work in Python, FastAPI and open-weights models.
 
