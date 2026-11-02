@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="A dotted pink divider with a beating heart in the middle.">
+<style>
+  .sans { font-family: 'Comic Sans MS', 'Chalkboard SE', 'Trebuchet MS', Verdana, sans-serif; }
+  .dash { stroke-dasharray: 10 12; animation: dash 2.4s linear infinite; }
+  .beat { transform-box: fill-box; transform-origin: center; animation: beat 1.5s ease-in-out infinite; }
+  .twinkle { transform-box: fill-box; transform-origin: center; animation: twinkle 2.4s ease-in-out infinite; }
+  .heart { transform-box: fill-box; transform-origin: center; animation: floatUp 6s linear infinite; }
+  .d1 { animation-delay: -.6s; } .d2 { animation-delay: -1.2s; } .d3 { animation-delay: -1.8s; }
+  .h1 { animation-delay: 0s; } .h2 { animation-delay: -3s; }
+  @keyframes dash { to { stroke-dashoffset: -22; } }
+  @keyframes beat { 0%, 100% { transform: scale(1); } 45% { transform: scale(1.18); } }
+  @keyframes twinkle { 0%, 100% { transform: scale(.35); opacity: .35; } 50% { transform: scale(1); opacity: 1; } }
+  @keyframes floatUp { 0% { opacity: 0; transform: translateY(10px) scale(.7); } 20% { opacity: .9; } 70% { opacity: .85; } 100% { opacity: 0; transform: translateY(-26px) scale(1.05); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .heart { opacity: .9; } }
+</style>
+<line x1="140" y1="32" x2="520" y2="32" class="dash" stroke="#FFD3E8" stroke-width="4" stroke-linecap="round"/>
+<line x1="680" y1="32" x2="1060" y2="32" class="dash" stroke="#FFD3E8" stroke-width="4" stroke-linecap="round"/>
+<g transform="translate(588,20) scale(1)"><g class="beat">
+  <path d="M0 4C0-3 9-6 12 1C15-6 24-3 24 4C24 12 12 19 12 19C12 19 0 12 0 4Z" fill="#FF7EB6"/>
+</g></g>
+<g transform="translate(470,12) scale(0.62)"><path class="heart h1" d="M0 4C0-3 9-6 12 1C15-6 24-3 24 4C24 12 12 19 12 19C12 19 0 12 0 4Z" fill="#FFA8D6"/></g>
+<g transform="translate(706,16) scale(0.62)"><path class="heart h2" d="M0 4C0-3 9-6 12 1C15-6 24-3 24 4C24 12 12 19 12 19C12 19 0 12 0 4Z" fill="#A98BFF"/></g>
+<g transform="translate(520,10) scale(0.8)"><path class="twinkle d1" d="M0-10L2.5-2.5L10 0L2.5 2.5L0 10L-2.5 2.5L-10 0L-2.5-2.5Z" fill="#FFC94D"/></g>
+<g transform="translate(676,42) scale(0.7)"><path class="twinkle d2" d="M0-10L2.5-2.5L10 0L2.5 2.5L0 10L-2.5 2.5L-10 0L-2.5-2.5Z" fill="#FF7EB6"/></g>
+<g transform="translate(370,32) scale(0.6)"><path class="twinkle d3" d="M0-10L2.5-2.5L10 0L2.5 2.5L0 10L-2.5 2.5L-10 0L-2.5-2.5Z" fill="#A98BFF"/></g>
+<g transform="translate(830,32) scale(0.6)"><path class="twinkle d1" d="M0-10L2.5-2.5L10 0L2.5 2.5L0 10L-2.5 2.5L-10 0L-2.5-2.5Z" fill="#4FD1A5"/></g>
+</svg>

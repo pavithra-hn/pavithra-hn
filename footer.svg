@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="A little pink robot waving goodbye beside the words thanks for stopping by.">
+<defs>
+  <linearGradient id="fcard" x1="0" y1="0" x2="0.6" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/>
+    <stop offset="1" stop-color="#FFF4FB"/>
+  </linearGradient>
+</defs>
+<style>
+  .sans { font-family: 'Comic Sans MS', 'Chalkboard SE', 'Trebuchet MS', Verdana, sans-serif; }
+  .hop { animation: hop .8s steps(2) infinite; }
+  .blink { transform-box: fill-box; transform-origin: center; animation: blink 4.4s steps(1) infinite; }
+  .twinkle { transform-box: fill-box; transform-origin: center; animation: twinkle 2.2s ease-in-out infinite; }
+  .heart { transform-box: fill-box; transform-origin: center; animation: floatUp 6.2s linear infinite; }
+  .glow { transform-box: fill-box; transform-origin: center; animation: glow 3.6s ease-in-out infinite alternate; }
+  .d1 { animation-delay: -.5s; } .d2 { animation-delay: -1.1s; } .d3 { animation-delay: -1.7s; }
+  .h1 { animation-delay: 0s; } .h2 { animation-delay: -3.1s; }
+  @keyframes hop { 0% { transform: translateY(0); } 100% { transform: translateY(-6px); } }
+  @keyframes blink { 0%, 88% { transform: scaleY(1); } 92%, 96% { transform: scaleY(.12); } 100% { transform: scaleY(1); } }
+  @keyframes twinkle { 0%, 100% { transform: scale(.35); opacity: .35; } 50% { transform: scale(1); opacity: 1; } }
+  @keyframes floatUp { 0% { opacity: 0; transform: translateY(12px) scale(.7); } 18% { opacity: .9; } 70% { opacity: .9; } 100% { opacity: 0; transform: translateY(-40px) scale(1.05); } }
+  @keyframes glow { from { opacity: .45; transform: scale(1); } to { opacity: .8; transform: scale(1.07); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .heart { opacity: .9; } }
+</style>
+<rect x="1.5" y="1.5" width="1197" height="157" rx="26" fill="url(#fcard)" stroke="#F6E2EF" stroke-width="3"/>
+<g class="glow"><circle cx="108" cy="84" r="66" fill="#FFE7F4"/></g>
+<g transform="translate(72,54)"><g class="hop">
+  <rect x="30" y="0" width="12" height="6" fill="#FFC94D"/>
+  <rect x="30" y="6" width="12" height="6" fill="#4A2C5A"/>
+  <rect x="12" y="12" width="48" height="6" fill="#FF7EB6"/>
+  <rect x="6" y="18" width="60" height="6" fill="#FF7EB6"/>
+  <rect x="6" y="24" width="12" height="6" fill="#FF7EB6"/>
+  <rect x="18" y="24" width="6" height="6" fill="#FFFFFF"/>
+  <rect x="30" y="24" width="12" height="6" fill="#FF7EB6"/>
+  <rect x="42" y="24" width="6" height="6" fill="#FFFFFF"/>
+  <rect x="54" y="24" width="12" height="6" fill="#FF7EB6"/>
+  <rect x="0" y="30" width="72" height="6" fill="#FF7EB6"/>
+  <rect x="0" y="36" width="12" height="6" fill="#FF7EB6"/>
+  <rect x="12" y="36" width="6" height="6" fill="#FFC2DC"/>
+  <rect x="18" y="36" width="36" height="6" fill="#FF7EB6"/>
+  <rect x="54" y="36" width="6" height="6" fill="#FFC2DC"/>
+  <rect x="60" y="36" width="12" height="6" fill="#FF7EB6"/>
+  <rect x="6" y="42" width="60" height="6" fill="#FF7EB6"/>
+  <rect x="6" y="48" width="60" height="6" fill="#E05A97"/>
+  <rect x="12" y="54" width="12" height="6" fill="#E05A97"/>
+  <rect x="48" y="54" width="12" height="6" fill="#E05A97"/>
+  <g class="blink"><rect x="24" y="24" width="6" height="6" fill="#4A2C5A"/><rect x="48" y="24" width="6" height="6" fill="#4A2C5A"/></g>
+</g></g>
+<text x="196" y="80" class="sans" font-size="31" font-weight="800" fill="#4A2C5A">thanks for stopping by</text>
+<text x="198" y="114" class="sans" font-size="17" font-weight="600" fill="#9A7FAE">always happy to talk about LLMs, RAG and shipping AI</text>
+<g transform="translate(1010,44)">
+  <rect x="0" y="0" width="112" height="74" rx="10" fill="#DCD8E6" stroke="#6E6A85" stroke-width="4"/>
+  <rect x="9" y="9" width="94" height="56" rx="5" fill="#F3F8FF"/>
+  <path d="M40 26 l-8 8 l8 8" fill="none" stroke="#8468E8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 26 l8 8 l-8 8" fill="none" stroke="#8468E8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="44" y="48" width="24" height="5" rx="2.5" fill="#FF7EB6"/>
+  <rect x="44" y="74" width="24" height="8" fill="#B9B4C8"/>
+  <rect x="24" y="82" width="64" height="8" rx="4" fill="#9C97AE"/>
+</g>
+<g transform="translate(972,58) scale(0.72)"><path class="heart h1" d="M0 4C0-3 9-6 12 1C15-6 24-3 24 4C24 12 12 19 12 19C12 19 0 12 0 4Z" fill="#FF7EB6"/></g>
+<g transform="translate(1140,96) scale(0.62)"><path class="heart h2" d="M0 4C0-3 9-6 12 1C15-6 24-3 24 4C24 12 12 19 12 19C12 19 0 12 0 4Z" fill="#A98BFF"/></g>
+<g transform="translate(1150,34) scale(0.75)"><path class="twinkle d1" d="M0-10L2.5-2.5L10 0L2.5 2.5L0 10L-2.5 2.5L-10 0L-2.5-2.5Z" fill="#FFC94D"/></g>
+<g transform="translate(948,112) scale(0.7)"><path class="twinkle d2" d="M0-10L2.5-2.5L10 0L2.5 2.5L0 10L-2.5 2.5L-10 0L-2.5-2.5Z" fill="#FF7EB6"/></g>
+<g transform="translate(200,34) scale(0.6)"><path class="twinkle d3" d="M0-10L2.5-2.5L10 0L2.5 2.5L0 10L-2.5 2.5L-10 0L-2.5-2.5Z" fill="#A98BFF"/></g>
+</svg>
