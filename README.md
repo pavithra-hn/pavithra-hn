@@ -1,15 +1,16 @@
-<img src="banner.svg" width="100%" alt="Pavithra H N, AI Specialist" />
+<img src="banner.svg" width="100%" alt="Pavithra H N, AI Engineer" />
 
-**AI Specialist in Dubai.** I build production AI services in Python: multilingual LLM pipelines, AI image generation, and making websites readable for AI assistants.
+**AI Engineer based in Dubai.** I build production AI systems in Python: LLM pipelines, RAG and agents, and AI image generation. Currently building AI services at a marketplace company.
 
 [LinkedIn](https://linkedin.com/in/pavithrahn56) | [Resume](https://drive.google.com/file/d/1MKYZkYATcADT_C3vD5PdLHhjKJFJ381U/view?usp=sharing) | [Kaggle](https://kaggle.com/pavithrahn) | pavithrahn56@gmail.com
 
-### What I work on now
-- **Multilingual AI summaries** in English, Arabic and French, with a second model checking every fact before it is published
-- **AI equipment images** in one consistent catalogue style, with automatic background removal
-- **AI visibility research:** how Google and assistants like ChatGPT and Gemini read a website, and what to fix so they understand it
+### Current focus
+- **Multilingual LLM pipelines:** English, Arabic and French output, with a second model fact-checking before anything is published
+- **AI image generation:** consistent product-style images with automatic background removal
+- **Production AI APIs:** FastAPI services with background jobs, tests and cost tracking on every call
+- **AI visibility:** how search engines and AI assistants read websites
 
-### Selected projects
+### Featured projects
 - **[Novacart Intelligence](https://github.com/pavithra-hn/Novacart-intelligence):** answers business questions with evidence by chaining orders, refunds, tickets, warehouse logs and email.<br/><sub>RAG, hand-written ReAct agent, Python</sub>
 - **[Synapse](https://github.com/pavithra-hn/Multimodel-AI-):** reads PDFs with text and vision together, so tables, charts and figures are not lost.<br/><sub>Multimodal RAG, vision models, Python</sub>
 - **[AI Code Debugger](https://github.com/pavithra-hn/-AI-Code-Debugger):** several agents find an error, write a fix and check it in a loop.<br/><sub>Multi-agent LLM, Streamlit, Docker</sub>
