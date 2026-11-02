@@ -1,124 +1,104 @@
-# Hi 👋, I'm Pavithra H N
-### AI Specialist | AI & Machine Learning Engineer
+<h1 align="center">
+  Hi there, I'm Pavithra
+  <img src="https://api.iconify.design/mdi/hand-wave.svg?color=%230e75b6" width="32" />
+</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=pavithra-hn&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-- 🔭 Currently working as an **AI Specialist at Plant & Equipment (Dubai)**, building production AI services for a heavy equipment marketplace and news platform
-- 🌱 Learning **AI Visibility (SEO, AEO, GEO), Cloudflare AI Crawl Control & LLM Evaluation**
-- 💬 Ask me about **LLM Pipelines, Multilingual GenAI, AI Image Generation, Web Automation & Chatbots**
-- 🎮 Previously worked on **AI in Gaming & Automated Placement Systems**
-- 📫 Reach me at **pavithrahn56@gmail.com**
-- 📄 View my resume: [Resume](https://drive.google.com/file/d/1MKYZkYATcADT_C3vD5PdLHhjKJFJ381U/view?usp=sharing)
-
----
-
-### 🚀 What I'm Building
-
-**AI Helper Platform** (Python, FastAPI, PostgreSQL, Heroku)
-One extensible AI service that a Ruby on Rails platform calls through secure API endpoints. New AI tasks plug in as actions, without new services.
-
-- 📰 **Quick Read summaries:** turns news articles into short overviews in **English, Arabic and French**, written by an open-weights LLM and checked by a second model for facts
-- 🏷️ **Automatic categorisation:** tags project articles with the right equipment categories
-- 🖼️ **AI equipment images:** generates catalogue-style machine images with consistent pose and clean background removal
-- 🔎 **Brand and model matching (in progress):** maps articles to equipment brands and models
-- ⚙️ **Production design:** background job queue and worker, Bearer and Basic auth, health checks, unit tests, cost tracked on every feature
-
-**AI Visibility & SEO Research**
-- Audited how Google and AI crawlers (ChatGPT, Perplexity, Claude, Gemini) reach, read and understand a large marketplace site
-- Planned fixes so Google and AI crawlers can read and understand the site better
-- Analysed AI crawler traffic with Cloudflare AI Crawl Control
-
-**Also**
-- 📋 Spec sheet autofill with source checking
-- 📚 Documentation plan using the Diataxis framework and Docusaurus
-- 📱 Backend for a staff photo review app
-
----
-
-### Connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/pavithrahn56" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://github.com/pavithra-hn">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=AI+Specialist+%40+Plant+%26+Equipment%2C+Dubai;I+teach+LLMs+to+write+in+3+languages;I+make+AI+draw+heavy+machines;Helping+AI+crawlers+understand+the+web" alt="Typing intro" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://kaggle.com/pavithrahn" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavithra-hn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### <img src="https://api.iconify.design/mdi/laptop.svg?color=%230e75b6" width="24" /> About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-3178C6?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A22?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Apify-97CA00?style=for-the-badge&logo=apify&logoColor=white" alt="Apify" />
-  <img src="https://img.shields.io/badge/Typebot-0042DA?style=for-the-badge&logo=typebot&logoColor=white" alt="Typebot" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" />
-  <img src="https://img.shields.io/badge/DeepInfra-1A1A2E?style=for-the-badge&logoColor=white" alt="DeepInfra" />
-  <img src="https://img.shields.io/badge/FLUX-000000?style=for-the-badge&logoColor=white" alt="FLUX" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />
-  <img src="https://img.shields.io/badge/Whisper-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Schema.org-A30000?style=for-the-badge&logo=schemadotorg&logoColor=white" alt="Schema.org" />
-  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console" />
-  <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white" alt="Docusaurus" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+```python
+class Pavithra:
+    def __init__(self):
+        self.role = "AI Specialist"
+        self.based_in = "Dubai"
+        self.works_on = [
+            "Production AI services (Python + FastAPI)",
+            "Multilingual GenAI: English, Arabic, French",
+            "AI image generation",
+            "AI visibility: SEO, AEO, GEO",
+        ]
+        self.currently_learning = ["Cloudflare AI Crawl Control", "LLM Evaluation"]
+        self.previously = ["AI in Gaming", "Automated Placement Systems"]
+        self.fun_fact = "I trust open-weights models more than my coffee machine"
+
+    def say_hi(self):
+        return "Ask me about LLM pipelines, chatbots or web automation!"
+```
+
+---
+
+### <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%230e75b6" width="24" /> What I Love Building
+
+| | |
+|---|---|
+| <img src="https://api.iconify.design/mdi/translate.svg?color=%230e75b6" width="20" /> **Multilingual AI** | LLM pipelines that write in English, Arabic and French, with a second model checking the facts |
+| <img src="https://api.iconify.design/mdi/image-filter-hdr.svg?color=%230e75b6" width="20" /> **AI Images** | Generating clean, catalogue-style images with background removal |
+| <img src="https://api.iconify.design/mdi/tag-multiple.svg?color=%230e75b6" width="20" /> **Smart Tagging** | Text classification and matching with LLMs |
+| <img src="https://api.iconify.design/mdi/web.svg?color=%230e75b6" width="20" /> **AI Visibility** | Making websites readable for Google and AI crawlers like ChatGPT, Perplexity and Gemini |
+| <img src="https://api.iconify.design/mdi/book-open-variant.svg?color=%230e75b6" width="20" /> **Docs** | Planning technical docs with Diataxis and Docusaurus |
+
+---
+
+### <img src="https://api.iconify.design/mdi/toolbox.svg?color=%230e75b6" width="24" /> My Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,tailwind,vite&perline=9" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,maven,postgres,mysql,sqlite,mongodb&perline=10" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,selenium,git,github,linux,docker&perline=9" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=heroku,gcp,aws,cloudflare,vscode,postman&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepInfra-1A1A2E?style=flat-square" />
+  <img src="https://img.shields.io/badge/FLUX-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Whisper-111111?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
 </p>
 
 ---
+
+### <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%230e75b6" width="24" /> GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=pavithra-hn&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### <img src="https://api.iconify.design/mdi/handshake.svg?color=%230e75b6" width="24" /> Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/pavithrahn56"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/pavithrahn"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:pavithrahn56@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1MKYZkYATcADT_C3vD5PdLHhjKJFJ381U/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>"Turning articles, images and websites into things AI can understand, one model at a time."</i></p>
