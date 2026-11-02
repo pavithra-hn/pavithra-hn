@@ -86,7 +86,6 @@ class Pavithra:
 ### <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%230e75b6" width="24" /> GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pavithra-hn&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=pavithra-hn&theme=tokyonight&hide_border=true" />
 </p>
 
