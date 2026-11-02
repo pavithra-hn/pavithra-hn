@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44" role="img" aria-label="GitHub">
+<defs>
+  <filter id="s" x="-25%" y="-25%" width="150%" height="150%">
+    <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#D4A5C7" flood-opacity="0.35"/>
+  </filter>
+</defs>
+<style>
+  .b { animation: bob 4s ease-in-out infinite; animation-delay: -3s; }
+  @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+  @media (prefers-reduced-motion: reduce) { .b { animation: none; } }
+</style>
+<rect x="1.5" y="1.5" width="41" height="41" rx="13" fill="#FFFFFF" stroke="#F0D4E8" stroke-width="1.5" filter="url(#s)"/>
+<g class="b">
+  <g transform="translate(12, 11)">
+    <path d="M10,0 C4.48,0 0,4.48 0,10 C0,14.42 2.87,18.17 6.84,19.49 C7.34,19.58 7.53,19.28 7.53,19.02 C7.53,18.79 7.52,18 7.52,17.17 C5,17.63 4.35,16.57 4.15,16.01 C4.03,15.72 3.55,14.84 3.13,14.61 C2.78,14.4 2.28,13.94 3.12,13.93 C3.9,13.92 4.46,14.67 4.69,14.98 C5.58,16.49 7,16.07 7.56,15.8 C7.65,15.15 7.91,14.71 8.19,14.46 C5.97,14.21 3.66,13.35 3.66,9.5 C3.66,8.42 4.03,7.52 4.7,6.83 C4.6,6.58 4.25,5.55 4.8,4.17 C4.8,4.17 5.63,3.9 7.53,5.19 C8.33,4.97 9.17,4.86 10.01,4.86 C10.85,4.86 11.69,4.97 12.49,5.19 C14.39,3.89 15.22,4.17 15.22,4.17 C15.77,5.55 15.42,6.58 15.32,6.83 C15.99,7.52 16.36,8.41 16.36,9.5 C16.36,13.36 14.04,14.21 11.82,14.46 C12.18,14.78 12.49,15.38 12.49,16.33 C12.49,17.68 12.48,18.77 12.48,19.02 C12.48,19.28 12.67,19.59 13.17,19.49 C17.14,18.17 20,14.42 20,10 C20,4.48 15.52,0 10,0 Z" fill="#4A2C5A"/>
+  </g>
+</g>
+</svg>

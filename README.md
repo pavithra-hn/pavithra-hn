@@ -2,7 +2,7 @@
 
 **AI Engineer based in Dubai.** I build production AI systems in Python: LLM pipelines, RAG and agents, and AI image generation. Currently building AI services at a marketplace company.
 
-[LinkedIn](https://linkedin.com/in/pavithrahn56) | [Resume](https://drive.google.com/file/d/1MKYZkYATcADT_C3vD5PdLHhjKJFJ381U/view?usp=sharing) | [Kaggle](https://kaggle.com/pavithrahn) | pavithrahn56@gmail.com
+[<img src="icons/linkedin.svg" width="46" alt="LinkedIn" />](https://linkedin.com/in/pavithrahn56) [<img src="icons/gmail.svg" width="46" alt="Email" />](mailto:pavithrahn56@gmail.com) [<img src="icons/kaggle.svg" width="46" alt="Kaggle" />](https://kaggle.com/pavithrahn) [<img src="icons/github.svg" width="46" alt="GitHub" />](https://github.com/pavithra-hn) [<img src="icons/resume.svg" width="46" alt="Resume" />](https://drive.google.com/file/d/1MKYZkYATcADT_C3vD5PdLHhjKJFJ381U/view?usp=sharing)
 
 <img src="divider.svg" width="100%" alt="" />
 

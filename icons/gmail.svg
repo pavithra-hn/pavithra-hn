@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44" role="img" aria-label="Email">
+<defs>
+  <filter id="s" x="-25%" y="-25%" width="150%" height="150%">
+    <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#D4A5C7" flood-opacity="0.35"/>
+  </filter>
+</defs>
+<style>
+  .b { animation: bob 4s ease-in-out infinite; animation-delay: -1s; }
+  @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+  @media (prefers-reduced-motion: reduce) { .b { animation: none; } }
+</style>
+<rect x="1.5" y="1.5" width="41" height="41" rx="13" fill="#FFFFFF" stroke="#F0D4E8" stroke-width="1.5" filter="url(#s)"/>
+<g class="b">
+  <g transform="translate(11, 11)">
+    <path d="M2,6 L2,16 L4.6,16 L4.6,9.6 L11,14.4 L17.4,9.6 L17.4,16 L20,16 L20,6 L18.2,6 L11,11.4 L3.8,6 Z" fill="#EA4335"/>
+    <path d="M2,6 L4.6,6 L4.6,9.6 L2,7.4 Z" fill="#4285F4"/>
+    <path d="M17.4,6 L20,6 L20,7.4 L17.4,9.6 Z" fill="#FBBC05"/>
+    <path d="M2,16 L4.6,16 L4.6,9.6 L2,11.8 Z" fill="#34A853"/>
+  </g>
+</g>
+</svg>
