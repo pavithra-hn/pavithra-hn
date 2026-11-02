@@ -1,65 +1,38 @@
-<h1 align="center">
-  Hi there, I'm Pavithra
-  <img src="https://api.iconify.design/mdi/hand-wave.svg?color=%230e75b6" width="32" />
-</h1>
-
 <p align="center">
-  <a href="https://github.com/pavithra-hn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=AI+Specialist+%40+Plant+%26+Equipment%2C+Dubai;I+teach+LLMs+to+write+in+3+languages;I+make+AI+draw+heavy+machines;Helping+AI+crawlers+understand+the+web" alt="Typing intro" />
-  </a>
+  <img src="assets/header.svg" width="100%" alt="Pavithra H N, AI Specialist" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavithra-hn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F25FA8&center=true&vCenter=true&width=700&lines=Loading+model...+done;Teaching+LLMs+to+write+in+3+languages;Making+AI+draw+heavy+machines;Helping+AI+crawlers+understand+the+web" alt="Typing intro" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavithra-hn&label=Profile%20views&color=3DD6F5&style=flat-square" alt="Profile views" />
+</p>
 
-### <img src="https://api.iconify.design/mdi/laptop.svg?color=%230e75b6" width="24" /> About Me
+### <img src="https://api.iconify.design/mdi/gamepad-variant.svg?color=%233dd6f5" width="24" /> Character
 
-```python
-class Pavithra:
-    def __init__(self):
-        self.role = "AI Specialist"
-        self.based_in = "Dubai"
-        self.works_on = [
-            "Production AI services (Python + FastAPI)",
-            "Multilingual GenAI: English, Arabic, French",
-            "AI image generation",
-            "AI visibility: SEO, AEO, GEO",
-        ]
-        self.currently_learning = ["Cloudflare AI Crawl Control", "LLM Evaluation"]
-        self.previously = ["AI in Gaming", "Automated Placement Systems"]
-        self.fun_fact = "I trust open-weights models more than my coffee machine"
+<p align="center">
+  <img src="assets/player-card.svg" width="100%" alt="Character sheet: AI Specialist skills and abilities" />
+</p>
 
-    def say_hi(self):
-        return "Ask me about LLM pipelines, chatbots or web automation!"
-```
-
----
-
-### <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%230e75b6" width="24" /> What I Love Building
+### <img src="https://api.iconify.design/mdi/sword-cross.svg?color=%233dd6f5" width="24" /> Quests
 
 | | |
 |---|---|
-| <img src="https://api.iconify.design/mdi/translate.svg?color=%230e75b6" width="20" /> **Multilingual AI** | LLM pipelines that write in English, Arabic and French, with a second model checking the facts |
-| <img src="https://api.iconify.design/mdi/image-filter-hdr.svg?color=%230e75b6" width="20" /> **AI Images** | Generating clean, catalogue-style images with background removal |
-| <img src="https://api.iconify.design/mdi/tag-multiple.svg?color=%230e75b6" width="20" /> **Smart Tagging** | Text classification and matching with LLMs |
-| <img src="https://api.iconify.design/mdi/web.svg?color=%230e75b6" width="20" /> **AI Visibility** | Making websites readable for Google and AI crawlers like ChatGPT, Perplexity and Gemini |
-| <img src="https://api.iconify.design/mdi/book-open-variant.svg?color=%230e75b6" width="20" /> **Docs** | Planning technical docs with Diataxis and Docusaurus |
+| <img src="https://api.iconify.design/mdi/check-circle.svg?color=%233dd6f5" width="18" /> **Completed** | Multilingual AI summaries with a second model checking the facts |
+| <img src="https://api.iconify.design/mdi/check-circle.svg?color=%233dd6f5" width="18" /> **Completed** | Catalogue-style AI images with background removal |
+| <img src="https://api.iconify.design/mdi/check-circle.svg?color=%233dd6f5" width="18" /> **Completed** | AI visibility audit: how Google and AI crawlers read a website |
+| <img src="https://api.iconify.design/mdi/progress-clock.svg?color=%23f25fa8" width="18" /> **Active** | Learning Cloudflare AI Crawl Control and LLM evaluation |
 
----
-
-### <img src="https://api.iconify.design/mdi/toolbox.svg?color=%230e75b6" width="24" /> My Toolbox
+### <img src="https://api.iconify.design/mdi/treasure-chest.svg?color=%233dd6f5" width="24" /> Inventory
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,tailwind,vite&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,pytorch,tensorflow,sklearn,opencv,postgres,mongodb&perline=9" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,maven,postgres,mysql,sqlite,mongodb&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,nodejs,express,java,spring&perline=9" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,selenium,git,github,linux,docker&perline=9" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=heroku,gcp,aws,cloudflare,vscode,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=selenium,docker,linux,git,github,heroku,gcp,aws,cloudflare&perline=9" />
 </p>
 
 <p align="center">
@@ -81,23 +54,19 @@ class Pavithra:
   <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
 </p>
 
----
-
-### <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%230e75b6" width="24" /> GitHub Stats
+### <img src="https://api.iconify.design/mdi/trophy.svg?color=%233dd6f5" width="24" /> High Score
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=pavithra-hn&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=pavithra-hn&background=140D2B&border=3DD6F5&ring=F25FA8&fire=F25FA8&currStreakNum=EDE9FF&sideNums=3DD6F5&currStreakLabel=F25FA8&sideLabels=A79FD1&dates=6B5FB0&stroke=3DD6F5" />
 </p>
 
----
-
-### <img src="https://api.iconify.design/mdi/handshake.svg?color=%230e75b6" width="24" /> Let's Connect
+### <img src="https://api.iconify.design/mdi/account-group.svg?color=%233dd6f5" width="24" /> Join My Party
 
 <p align="center">
-  <a href="https://linkedin.com/in/pavithrahn56"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/pavithrahn"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:pavithrahn56@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1MKYZkYATcADT_C3vD5PdLHhjKJFJ381U/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pavithrahn56"><img src="https://img.shields.io/badge/LinkedIn-140D2B?style=for-the-badge&logo=linkedin&logoColor=3DD6F5" /></a>
+  <a href="https://kaggle.com/pavithrahn"><img src="https://img.shields.io/badge/Kaggle-140D2B?style=for-the-badge&logo=kaggle&logoColor=3DD6F5" /></a>
+  <a href="mailto:pavithrahn56@gmail.com"><img src="https://img.shields.io/badge/Email-140D2B?style=for-the-badge&logo=gmail&logoColor=F25FA8" /></a>
+  <a href="https://drive.google.com/file/d/1MKYZkYATcADT_C3vD5PdLHhjKJFJ381U/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-140D2B?style=for-the-badge&logo=googledrive&logoColor=F25FA8" /></a>
 </p>
 
-<p align="center"><i>"Turning articles, images and websites into things AI can understand, one model at a time."</i></p>
+<p align="center"><i>Game saved. See you in the next level.</i></p>
