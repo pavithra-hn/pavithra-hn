@@ -1,15 +1,39 @@
 # Hi 👋, I'm Pavithra H N
-### AI & Machine Learning Engineer
+### AI Specialist | AI & Machine Learning Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=pavithra-hn&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-- 🔭 Currently working on **AI in Gaming & Automated Placement Systems**
-- 🌱 Learning **Advanced LLMs, UI/UX Gamification & Web Scraping Automation**
-- 💬 Ask me about **Machine Learning, GenAI, Web Automation & Chatbots**
+- 🔭 Currently working as an **AI Specialist at Plant & Equipment (Dubai)**, building production AI services for a heavy equipment marketplace and news platform
+- 🌱 Learning **AI Visibility (SEO, AEO, GEO), Cloudflare AI Crawl Control & LLM Evaluation**
+- 💬 Ask me about **LLM Pipelines, Multilingual GenAI, AI Image Generation, Web Automation & Chatbots**
+- 🎮 Previously worked on **AI in Gaming & Automated Placement Systems**
 - 📫 Reach me at **pavithrahn56@gmail.com**
 - 📄 View my resume: [Resume](https://drive.google.com/file/d/1MKYZkYATcADT_C3vD5PdLHhjKJFJ381U/view?usp=sharing)
+
+---
+
+### 🚀 What I'm Building
+
+**AI Helper Platform** (Python, FastAPI, PostgreSQL, Heroku)
+One extensible AI service that a Ruby on Rails platform calls through secure API endpoints. New AI tasks plug in as actions, without new services.
+
+- 📰 **Quick Read summaries:** turns news articles into short overviews in **English, Arabic and French**, written by an open-weights LLM and checked by a second model for facts
+- 🏷️ **Automatic categorisation:** tags project articles with the right equipment categories
+- 🖼️ **AI equipment images:** generates catalogue-style machine images with consistent pose and clean background removal
+- 🔎 **Brand and model matching (in progress):** maps articles to equipment brands and models
+- ⚙️ **Production design:** background job queue and worker, Bearer and Basic auth, health checks, unit tests, cost tracked on every feature
+
+**AI Visibility & SEO Research**
+- Audited how Google and AI crawlers (ChatGPT, Perplexity, Claude, Gemini) reach, read and understand a large marketplace site
+- Planned fixes so Google and AI crawlers can read and understand the site better
+- Analysed AI crawler traffic with Cloudflare AI Crawl Control
+
+**Also**
+- 📋 Spec sheet autofill with source checking
+- 📚 Documentation plan using the Diataxis framework and Docusaurus
+- 📱 Backend for a staff photo review app
 
 ---
 
@@ -40,6 +64,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -53,6 +78,9 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -65,14 +93,22 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" />
+  <img src="https://img.shields.io/badge/DeepInfra-1A1A2E?style=for-the-badge&logoColor=white" alt="DeepInfra" />
+  <img src="https://img.shields.io/badge/FLUX-000000?style=for-the-badge&logoColor=white" alt="FLUX" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />
   <img src="https://img.shields.io/badge/Whisper-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Schema.org-A30000?style=for-the-badge&logo=schemadotorg&logoColor=white" alt="Schema.org" />
+  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console" />
+  <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white" alt="Docusaurus" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
@@ -82,6 +118,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </p>
 
 ---
